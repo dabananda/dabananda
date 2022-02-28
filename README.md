@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dabananda Mitra</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>esh
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 I'm a student of Computer Science and Engineering. 
 
