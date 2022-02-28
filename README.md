@@ -10,6 +10,8 @@ I'm a student of **Computer Science and Engineering**
 - 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, Git, GitHub, JavaScript, React JS, C++**
 
 - 📫 How to reach me **dmitraofficial@gmail.com**
+
+![Profile views](https://gpvc.arturio.dev/dabananda)  
  
  <h3 align="left">I'm also here:</h3>
 <p align="left">
@@ -39,5 +41,3 @@ I'm a student of **Computer Science and Engineering**
 ![GitHub metrics](https://metrics.lecoq.io/dabananda)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dabananda)  
-
-![Profile views](https://gpvc.arturio.dev/dabananda)  
