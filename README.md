@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Dabananda Mitra
-#### A passionate frontend developer from Bangladesh
+<h1 align="center">Hi 👋, I'm Dabananda Mitra</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>esh
 
 I'm a student of Computer Science and Engineering. 
 
