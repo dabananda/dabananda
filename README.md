@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dabananda Mitra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-I'm a student of Computer Science and Engineering. 
+I'm a student of **Computer Science and Engineering**
 
-Skills: C++, HTML, CSS, JavaScript, React JS, Bootstrap, SCSS, Git, GitHub
+**Skills: C++, HTML, CSS, JavaScript, React JS, Bootstrap, SCSS, Git, GitHub**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently deeply learning **React JS**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, SCSS, Git, GitHub, JavaScript, React JS, C++**
 
