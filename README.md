@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dabananda Mitra
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh]https://res.cloudinary.com/divcukylp/image/upload/c_scale,w_1080/v1646064957/images/IMG_20211202_171004_239_3_lotltv.jpg)
+![A passionate frontend developer from Bangladesh](https://res.cloudinary.com/divcukylp/image/upload/c_scale,w_1080/v1646064957/images/IMG_20211202_171004_239_3_lotltv.jpg)
 
 I'm a student of Computer Science and Engineering. 
 
