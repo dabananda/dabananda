@@ -9,7 +9,7 @@
 
 </p>
 
-<h5>Hi! My name is Dabananda Mitra. Thank You for taking the time to view my GitHub Profile :smile: </h5>
+<h4>Hi! My name is Dabananda Mitra. Thank You for taking the time to view my GitHub Profile :smile: </h4>
 
 <h2> About Me </h2>
 
@@ -51,11 +51,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&theme=tokyonight" />
 </a>
 
-<br/>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda&theme=tokyonight)
 
-![GitHub metrics](https://metrics.lecoq.io/dabananda&theme=tokyonight)
+![GitHub metrics](https://metrics.lecoq.io/dabananda)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight)
 
