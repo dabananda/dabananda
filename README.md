@@ -8,9 +8,8 @@
 ![Profile views](https://gpvc.arturio.dev/dabananda)
 
 </p>
-**
-Hi! My name is Dabananda Mitra. Thank You for taking the time to view my GitHub Profile :smile: 
-**
+
+<h5>Hi! My name is Dabananda Mitra. Thank You for taking the time to view my GitHub Profile :smile: </h5>
 
 <h2> About Me </h2>
 
@@ -54,6 +53,7 @@ Hi! My name is Dabananda Mitra. Thank You for taking the time to view my GitHub 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&theme=tokyonight" />
 </a>
 </p>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda)
 
 ![GitHub metrics](https://metrics.lecoq.io/dabananda)
