@@ -55,11 +55,11 @@
 </a>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda&theme=tokyonight)
 
-![GitHub metrics](https://metrics.lecoq.io/dabananda)
+![GitHub metrics](https://metrics.lecoq.io/dabananda&theme=tokyonight)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dabananda)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
