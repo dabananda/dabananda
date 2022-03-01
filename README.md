@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="assets/hi.gif" width="30px" alt="hi"> I'm Dabananda Mitra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-![Github Banner](assets/dabananda-mitra-21-12-2.jpg)
+![Github Banner](assets/dabananda-mitra-github-banner.png)
 
 
 **Educational Background: BSc in Computer Science and Engineering**
