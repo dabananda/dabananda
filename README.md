@@ -34,9 +34,9 @@
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
-### My Projects & Ventures
+<h2>My Projects & Ventures</h2>
 
-<table>
+<table align="center">
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>
