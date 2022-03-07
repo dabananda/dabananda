@@ -34,6 +34,25 @@
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
+### My Projects & Ventures
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Technologies</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://tododm.netlify.app/" target="_blank">ToDo List</a></td>
+      <td>A simple todo app to track your daily tasks</td>
+      <td>React JS, Bootstrap, Bootstrap icon, SCSS</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dabananda.mitra.98) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabanandamitra) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dabananda.mitra) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dabanandamitra) [![Dev.to Badge](https://img.shields.io/badge/Dev.to-%23000?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/dabanandamitra) [![Medium Badge](https://img.shields.io/badge/Medium-%23000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dabanandamitra)
