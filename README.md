@@ -50,6 +50,11 @@
       <td>A simple todo app to track your daily tasks</td>
       <td>React JS, Bootstrap, Bootstrap icon, SCSS</td>
     </tr>
+    <tr>
+      <td><a href="https://freevi-dm.netlify.app/" target="_blank">FreeVI</a></td>
+      <td>Copyright free images from pexels. Here you can search for images. Every page contains 15 images.</td>
+      <td>React JS, Bootstrap, SCSS</td>
+    </tr>
   </tbody>
 </table>
 
