@@ -33,6 +33,8 @@
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/dabananda?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/dabananda?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg'> </a>
+<a href= https://github.com/dabananda?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg'> </a>
 
 <h2>My Projects & Ventures</h2>
 
