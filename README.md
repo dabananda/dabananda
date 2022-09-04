@@ -55,6 +55,16 @@
       <td>Copyright free images from pexels. Here you can search for images. Every page contains 15 images.</td>
       <td>React JS, Bootstrap, SCSS</td>
     </tr>
+    <tr>
+      <td><a href="https://booklist-dm.netlify.app/" target="_blank">Book List</a></td>
+      <td>A simple book list app</td>
+      <td>HTML, JavaScript, Bootstrap, CSS</td>
+    </tr>
+    <tr>
+      <td><a href="https://burger-dm.netlify.app/" target="_blank">Book List</a></td>
+      <td>A simple burger builder app</td>
+      <td>ReactJs, Bootstrap, CSS, Firebase, Redux</td>
+    </tr>
   </tbody>
 </table>
 
