@@ -63,16 +63,16 @@
       <td>HTML, JavaScript, Bootstrap, CSS</td>
     </tr>
     <tr>
-      <td><a href="https://burger-dm.netlify.app/" target="_blank">Book List</a></td>
+      <td><a href="https://burger-dm.netlify.app/" target="_blank">Burger Builder</a></td>
       <td>A simple burger builder app</td>
-      <td>ReactJs, Bootstrap, CSS, Firebase, Redux</td>
+      <td>ReactJs, Bootstrap, SCSS, Firebase, Redux</td>
     </tr>
   </tbody>
 </table>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dabananda.mitra.98) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabanandamitra) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dabananda.mitra) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dabanandamitra) [![Dev.to Badge](https://img.shields.io/badge/Dev.to-%23000?style=for-the-badge&logo=dev&logoColor=white)](https://dev.to/dabanandamitra) [![Medium Badge](https://img.shields.io/badge/Medium-%23000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dabanandamitra)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/imdmitra) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabanandamitra) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dabananda.mitra)
 
 <br>
 
