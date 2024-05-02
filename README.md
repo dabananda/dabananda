@@ -97,11 +97,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dabananda/dabananda/output/snake.svg" alt="Snake animation" />
-
-###
 </div>
