@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "100%" src="https://res.cloudinary.com/divcukylp/image/upload/v1646117487/images/dabananda-mitra-github-banner_kwjg7p.png" alt="cover" />
-</div>
+</div> -->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -97,4 +97,11 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dabananda/dabananda/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
