@@ -20,14 +20,14 @@ I'm a passionate **Computer Science Engineering** student at ISTT, currently in 
 
 ## 📝 My Resume
 <div>
-  <a href="dmitra.netlify.app" target="_blank">
+  <a href="https://dmitra.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </div>
 
 ## 🧑‍💻 My Portfolio
 <div>
-  <a href="dmitra.netlify.app" target="_blank">
+  <a href="https://dmitra.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit Portfolio-FFB6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
@@ -53,10 +53,10 @@ I'm a passionate **Computer Science Engineering** student at ISTT, currently in 
 
 | Platform | Achievement | Stats |
 |----------|-------------|-------|
-| 🔥 **CodeForces** | Max Rating: **776** | Active Participant |
-| 🏅 **CodeChef** | Max Rating: **1338** | Regular Solver |
-| 💡 **LeetCode** | **150+ Problems** | Algorithm Expert |
-| ⭐ **HackerRank** | **5 Star** Problem Solving | Top Performer |
+| 🔥 **[CodeForces](https://codeforces.com/profile/dabananda)** | Max Rating: **776** | Active Participant |
+| 🏅 **[CodeChef](https://www.codechef.com/users/dabananda)** | Max Rating: **1338** | Regular Solver |
+| 💡 **[LeetCode](https://leetcode.com/u/dabananda/)** | **150+ Problems** | Algorithm Expert |
+| ⭐ **[HackerRank](https://www.hackerrank.com/profile/dabananda)** | **5 Star** Problem Solving | Top Performer |
 
 </div>
 
@@ -92,9 +92,9 @@ I'm a passionate **Computer Science Engineering** student at ISTT, currently in 
 
 ## 🏅 Certifications
 
-- 🐍 **Python Certificate** - HackerRank
-- ⚛️ **The Complete ReactJs Course** - Udemy
-- 🛠️ **Technical Support Fundamentals** - Google (Coursera)
+- 🐍 **Python Certificate** - [HackerRank](https://www.hackerrank.com/certificates/181c1978ecc8)
+- ⚛️ **The Complete ReactJs Course** - [Udemy](https://www.udemy.com/certificate/UC-4d8d15bf-b84e-4f97-87f7-786f4b8193d4/)
+- 🛠️ **Technical Support Fundamentals by Google** - [Coursera](https://www.coursera.org/account/accomplishments/verify/X49MWFJMDZE2)
 
 ## 📫 Let's Connect!
 
@@ -102,11 +102,7 @@ I'm a passionate **Computer Science Engineering** student at ISTT, currently in 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdmitra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabananda)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabananda)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/imdmitra)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801307080014)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/imdmitra)
 
 </div>
-
----
----
