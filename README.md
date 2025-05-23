@@ -20,7 +20,7 @@ I'm a passionate **Computer Science Engineering** student at ISTT, currently in 
 
 ## 📝 My Resume
 <div>
-  <a href="https://dmitra.netlify.app" target="_blank">
+  <a href="https://drive.google.com/file/d/1r0y152g0bSUcL92DezawZGm8gi9RRmC-/view" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </div>
