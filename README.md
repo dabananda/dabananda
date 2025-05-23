@@ -1,88 +1,112 @@
-<!-- <div align="center">
-<img width="100%" height = "100%" src="https://res.cloudinary.com/divcukylp/image/upload/v1646117487/images/dabananda-mitra-github-banner_kwjg7p.png" alt="cover" />
-</div> -->
+# Hi there, I'm Dabananda Mitra! 👋
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<div align="center">
+  <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1747393968/portfolio-files/dabananda_mitra__8801304080014_imdmitra_gmail.com_dhaka_bangladesh_500x500_z36su7.png" alt="Dabananda Mitra" width="200" height="200" style="border-radius: 50%; border: 3px solid #2E96F7;" />
+</div>
 
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Competitive+Programmer" alt="Typing SVG" />
+</div>
 
-<h4>Hi! My name is Dabananda Mitra. Thank You for taking the time to view my GitHub Profile :smile: </h4>
+## 🚀 About Me <img src="https://komarev.com/ghpvc/?username=dabananda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" style="margin-left:15" />
 
-<h2> What's Ongoing 🔥</h2>
+I'm a passionate **Computer Science Engineering** student at ISTT, currently in my final semester. I love solving complex problems and building scalable web applications. With **600+ problems solved** across various platforms, I combine strong algorithmic thinking with practical software development skills.
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🎓 **B.Sc. in Computer Science and Engineering** (Expected: August 2025)
+- 💻 **Full Stack Developer** with expertise in modern web technologies
+- 🏆 **Competitive Programmer** with consistent problem-solving achievements
+- 🌱 Currently exploring advanced **System Design** and **Cloud Technologies**
+- 📍 Based in **Dhaka, Bangladesh**
 
-- 🌱 I’m currently learning modern web technologies
+## 📝 My Resume
+<div>
+  <a href="dmitra.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+  </a>
+</div>
 
-- 👯 I’m looking to collaborate on some awesome web projects
+## 🧑‍💻 My Portfolio
+<div>
+  <a href="dmitra.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-FFB6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</div>
 
-- 💬 Talk to me about new technologies and open Source
+## 🛠️ Tech Stack
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/imdmitra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dabanandamitra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dabanandamitra) 
+| Category | Technologies |
+|----------|-------------|
+| **💻 Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **⚙️ Backend** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green) ![DRF](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **🗄️ Databases** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
+| **🛠️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **🧠 Core Concepts** | OOP • Algorithms • Data Structures • Database Design • Problem Solving |
 
-## 👩‍💻 Handles
-- [LeetCode](https://leetcode.com/u/dabananda/)
-- [Codeforces](https://codeforces.com/profile/dabananda)
-- [CodeChef](https://www.codechef.com/users/dabananda)
-- [HackerRank](https://www.hackerrank.com/profile/dabananda)
-- [CodingNinjas](https://www.naukri.com/code360/profile/48a35475-0af2-4d4e-8f26-2d793b64843a)
-- [UVa](https://uhunt.onlinejudge.org/id/1167157)
-- [Beecrowd](https://judge.beecrowd.com/en/profile/467832)
-- [Vjudge](https://vjudge.net/user/dabanandamitra)
+</div>
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dabananda&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 Competitive Programming Achievements
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) -->
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dabananda&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+| Platform | Achievement | Stats |
+|----------|-------------|-------|
+| 🔥 **CodeForces** | Max Rating: **776** | Active Participant |
+| 🏅 **CodeChef** | Max Rating: **1338** | Regular Solver |
+| 💡 **LeetCode** | **150+ Problems** | Algorithm Expert |
+| ⭐ **HackerRank** | **5 Star** Problem Solving | Top Performer |
 
-<!-- ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
+</div>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=dabananda&icon=0&color=9)](https://visitcount.itsvg.in) -->
-[![](https://visitcount.itsvg.in/api?id=dabananda&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+**Total Problems Solved: 600+** across various online judges
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 Featured Projects
 
-<h2> 💻 My Projects</h2>
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Technologies</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://tododm.netlify.app/" target="_blank">ToDo List</a></td>
-      <td>A simple todo app to track your daily tasks</td>
-      <td>React JS, Bootstrap, Bootstrap icon, SCSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://freevi-dm.netlify.app/" target="_blank">FreeVI</a></td>
-      <td>Copyright free images from pexels. Here you can search for images. Every page contains 15 images.</td>
-      <td>React JS, Bootstrap, SCSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://booklist-dm.netlify.app/" target="_blank">Book List</a></td>
-      <td>A simple book list app</td>
-      <td>HTML, JavaScript, Bootstrap, CSS</td>
-    </tr>
-    <tr>
-      <td><a href="https://burger-dm.netlify.app/" target="_blank">Burger Builder</a></td>
-      <td>A simple burger builder app</td>
-      <td>ReactJs, Bootstrap, SCSS, Firebase, Redux</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+
+| Project | Description | Technologies | Repository |
+|---------|------------|--------------|------------|
+| 🛒 **E-commerce API** | Complete e-commerce backend with all CRUD operations, user authentication, and RESTful API design | Django REST Framework, PostgreSQL, JWT | [View Code](https://github.com/dabananda) |
+| 💉 **Vaccination Management API** | Vaccination campaign management with doctor/patient profiles and automated dose scheduling | Django REST Framework, Database Design | [View Code](https://github.com/dabananda) |
+| 🛍️ **ESHOP Frontend** | Responsive e-commerce web application with modern React patterns and state management | ReactJS, Modern UI/UX | [View Code](https://github.com/dabananda) |
+| 📚 **Library Management API** | Complete library management solution with book inventory and member management | Django REST Framework, System Design | [View Code](https://github.com/dabananda) |
+| 📦 **Product Inventory Web** | Full-stack inventory management system with CRUD operations and MVC architecture | ASP.NET Core MVC, SQL Server | [View Code](https://github.com/dabananda) |
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## 🏅 Certifications
+
+- 🐍 **Python Certificate** - HackerRank
+- ⚛️ **The Complete ReactJs Course** - Udemy
+- 🛠️ **Technical Support Fundamentals** - Google (Coursera)
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdmitra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabananda)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabananda)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/imdmitra)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801307080014)
+
+</div>
+
+---
+---
