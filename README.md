@@ -21,7 +21,7 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 ## 📝 My Resume
 <div>
-  <a href="https://drive.google.com/file/d/1x-agEw1l6BgWTg1vOe2YaU-ONOQ6N5ZL/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1WTci8T4Ps4kU9bPVbhyCEpCaKcS8576_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </div>
@@ -76,9 +76,7 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 | 📘 **Book Shop Ecommerce** | Full-stack e-commerce system with admin dashboard, product management, and Stripe payment gateway | ASP.NET Core MVC, SQL Server, Stripe | [View Code](https://github.com/dabananda) |
 | 🛒 **E-commerce API** | Complete e-commerce backend with all CRUD operations, user authentication, and RESTful API design | Django REST Framework, PostgreSQL, JWT | [View Code](https://github.com/dabananda) |
 | 💉 **Vaccination Management API** | Vaccination campaign management with doctor/patient profiles and automated dose scheduling | Django REST Framework, Database Design | [View Code](https://github.com/dabananda) |
-| 🛍️ **ESHOP Frontend** | Responsive e-commerce web application with modern React patterns and state management | ReactJS, Modern UI/UX | [View Code](https://github.com/dabananda) |
 | 📚 **Library Management API** | Complete library management solution with book inventory and member management | Django REST Framework, System Design | [View Code](https://github.com/dabananda) |
-| 📦 **Product Inventory Web** | Full-stack inventory management system with CRUD operations and MVC architecture | ASP.NET Core MVC, SQL Server | [View Code](https://github.com/dabananda) |
 
 </div>
 
@@ -107,7 +105,7 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdmitra@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabananda.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabananda)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801307080014)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/imdmitra)
