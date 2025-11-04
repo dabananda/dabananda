@@ -21,7 +21,7 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 ## 📝 My Resume
 <div>
-  <a href="https://drive.google.com/file/d/14qHHE6vzbGTyiXpnatq1Ccws7RQ0h_MR/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1GMPJw4voM5ViWWOZ7A91C_CUoXlUuvB2/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
 </div>
