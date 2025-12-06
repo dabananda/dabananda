@@ -28,7 +28,7 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 ## 🧑‍💻 My Portfolio
 <div>
-  <a href="https://dabananda.github.io" target="_blank">
+  <a href="https://dmitra.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit Portfolio-FFB6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
