@@ -10,26 +10,22 @@
 
 ## 🚀 About Me <img src="https://komarev.com/ghpvc/?username=dabananda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" style="margin-left:15" />
 
-I'm a passionate Computer Science and Engineering (CSE) graduate from the Institute of Science Trade & Technology (ISTT) with hands-on experience building scalable and secure web applications using ASP.NET Core and Angular. I love solving complex problems and have solved 600+ algorithmic challenges across multiple platforms, blending strong algorithmic thinking with practical full-stack development.
+I'm a passionate Computer Science and Engineering (CSE) graduate from the Institute of Science Trade & Technology (ISTT) with hands-on experience building scalable and secure web applications using modern frameworks. I love solving complex problems and have solved 600+ algorithmic challenges across multiple platforms, blending strong algorithmic thinking with practical full-stack development.
 
-- 🎓 B.Sc. in Computer Science and Engineering (CSE)— Graduated October, 2025
-- 💻 Full Stack Developer specializing in modern web technologies (ASP.NET Core, Angular)
-- 🏆 Competitive Programmer with 600+ solved problems across various online judges
-- 🌱 Exploring System Design and scalable software architecture
-- 🚀 Actively seeking Software Engineering opportunities to apply my skills and grow professionally
-- 📍 Based in Dhaka, Bangladesh
+- 🎓 **Education:** B.Sc. in Computer Science and Engineering (CSE) - Graduated Feb, 2026
+- 🚀 **Currently working on:** Advanced System Design patterns and scalable software architecture.
+- 🖥️ **Tech Stack:** C# (.NET), Java (Spring Boot), TypeScript (Next.js/Angular/React/Express).
+- 💼 **Open for:** Software Engineering roles where I can apply my full-stack skills to solve real-world problems.
+-   🏆 **Problem solver:** Solved 600+ problems across various online judges
+-   📍 Currently in Dhaka, Bangladesh
 
-## 📝 My Resume
-<div>
-  <a href="https://drive.google.com/file/d/1rivp3KQmKDUdhrJbpk3vMQ2f4YfWV-xi/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+## 📝 Resume & Portfolio
+<div align="center">
+  <a href="https://drive.google.com/file/d/1PHQQRF4pcmUFXo1ms7sg9XvLUE9RcZhY/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
-</div>
-
-## 🧑‍💻 My Portfolio
-<div>
   <a href="https://dmitra.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit Portfolio-FFB6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Visit Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2E96F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
 
@@ -39,15 +35,28 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 | Category | Technologies |
 |----------|-------------|
-| **💻 Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **⚙️ Backend** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-5C2D91?style=flat-square&logo=dotnet&logoColor=white) ![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **🎨 Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **🗄️ Databases** | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| **🛠️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **🧠 Core Concepts** | OOP • DSA • MVC Architecture • SOLID Principles • Problem Solving • Agile Development |
-
+| **💻 Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **⚙️ Backend** | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **🎨 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **🗄️ Databases** | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
+| **🛠️ Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **🧠 Core Concepts** | OOP • DSA • MVC • RESTful API • SOLID Principles • Problem Solving • Agile Development |
+---
 </div>
-                              
+
+## 🎯 Featured Projects
+I believe in **Clean Architecture** and building systems that are maintainable and scalable. Here are some of my best works:
+
+<div align="center">
+
+| Project | Tech Stack | Description | Links |
+|:---|:---|:---|:---:|
+| **Apartment Management System** | `.NET Core` `MVC` `SQL Server` `Stripe` | A multi-role property management platform handling rent billing, tenant operations, and automated payments. | [Code](https://github.com/dabananda/ApartmentManagementSystem) |
+| **E-Commerce API** | `.NET Core` `API` `SQL Server` `JWT` `Stripe` | Full featured ecommerce api featuring auto adjust inventory, server-side pagination, and real-time search. | [Code](https://github.com/dabananda/ECommerce) |
+| **BloodConnect** | `.NET Core` `MVC` `Cloudinary` `Identity` | Real-time blood donation platform connecting verified donors/recipients with cloud image storage. | [Code](https://github.com/dabananda/BloodConnect) |
+| **Employee Management** | `Spring Boot` `React` `MySQL` | Full-stack CRUD application using Spring Data JPA and the Service Layer pattern with custom DTO mapping. | [Code](https://github.com/dabananda/ems-backend) |
+---
+</div>
 
 ## 🏆 Competitive Programming Achievements
 
@@ -55,31 +64,14 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 | Platform | Achievement | Stats |
 |----------|-------------|-------|
-| 🔥 **[CodeForces](https://codeforces.com/profile/dabananda)** | Max Rating: **776** | Active Participant |
 | 🏅 **[CodeChef](https://www.codechef.com/users/dabananda)** | Max Rating: **1338** | Regular Solver |
-| 💡 **[LeetCode](https://leetcode.com/u/dabananda/)** | **150+ Problems** | Algorithm Expert |
+| 💡 **[LeetCode](https://leetcode.com/u/dabananda/)** | **180+ Problems** | Algorithm Expert |
+| 🔥 **[CodeForces](https://codeforces.com/profile/dabananda)** | Max Rating: **776** | Active Participant |
 | ⭐ **[HackerRank](https://www.hackerrank.com/profile/dabananda)** | **5 Star** Problem Solving | Top Performer |
 
 </div>
 
 **Total Problems Solved: 600+** across various online judges
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies | Repository |
-|---------|-------------|---------------|-------------|
-| 🏢 **Apartment Management System** | Multi-role property management platform with rent billing, Stripe payments, and tenant operations | ASP.NET Core MVC, Identity, SQL Server, Stripe | [View Code](https://github.com/dabananda/ApartmentManagementSystem) |
-| 💼 **Rent Management System** | Secure role-based REST API with Angular client for managing shops, tenants, rental agreements, and rent records | ASP.NET Core Web API, Angular, SQL Server, Identity, JWT | [View Code](https://github.com/dabananda/RentManagement) |
-| 🩸 **BloodConnect** | Real-time blood donation platform connecting verified donors and recipients with cloud image storage | ASP.NET Core MVC, Identity, SQL Server, Cloudinary | [View Code](https://github.com/dabananda/BloodConnect) |
-| 📘 **Book Shop Ecommerce** | Full-stack e-commerce system with admin dashboard, product management, and Stripe payment gateway | ASP.NET Core MVC, SQL Server, Stripe | [View Code](https://github.com/dabananda) |
-| 🛒 **E-commerce API** | Complete e-commerce backend with all CRUD operations, user authentication, and RESTful API design | Django REST Framework, PostgreSQL, JWT | [View Code](https://github.com/dabananda) |
-| 💉 **Vaccination Management API** | Vaccination campaign management with doctor/patient profiles and automated dose scheduling | Django REST Framework, Database Design | [View Code](https://github.com/dabananda) |
-| 📚 **Library Management API** | Complete library management solution with book inventory and member management | Django REST Framework, System Design | [View Code](https://github.com/dabananda) |
-
-</div>
-
 
 ## 📊 GitHub Stats
 
@@ -105,6 +97,7 @@ I'm a passionate Computer Science and Engineering (CSE) graduate from the Instit
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E96F7?style=for-the-badge&logo=firefox&logoColor=white)](https://dmitra.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabananda.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabananda)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801307080014)
