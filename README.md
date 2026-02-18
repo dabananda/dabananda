@@ -62,12 +62,12 @@ I believe in **Clean Architecture** and building systems that are maintainable a
 
 <div align="center">
 
-| Platform | Achievement | Stats |
+| Platform | Achievement | Handle |
 |----------|-------------|-------|
-| 🏅 **[CodeChef](https://www.codechef.com/users/dabananda)** | Max Rating: **1338** | Regular Solver |
-| 💡 **[LeetCode](https://leetcode.com/u/dabananda/)** | **180+ Problems** | Algorithm Expert |
-| 🔥 **[CodeForces](https://codeforces.com/profile/dabananda)** | Max Rating: **776** | Active Participant |
-| ⭐ **[HackerRank](https://www.hackerrank.com/profile/dabananda)** | **5 Star** Problem Solving | Top Performer |
+| 💡 **[LeetCode](https://leetcode.com/u/dabananda/)** | **180+ Problems** | `dabananda` |
+| ⭐ **[HackerRank](https://www.hackerrank.com/profile/dabananda)** | **5 Star** Problem Solving | `dabananda` |
+| 🏅 **[CodeChef](https://www.codechef.com/users/dabananda)** | Max Rating: **1338** | `dabananda` |
+| 🔥 **[CodeForces](https://codeforces.com/profile/dabananda)** | Max Rating: **776** | `dabananda` |
 
 </div>
 
