@@ -46,13 +46,6 @@ I'm a Software Engineer at Bdjobs.com and a Computer Science and Engineering (CS
 ---
 </div>
 
-## 💼 Professional Experience
-
-**Software Engineer — [Bdjobs.com](https://bdjobs.com)** *(April 2026 – Present)*
-
-- Developed and enhanced features in ASP.NET Core APIs using SQL Server, Stored Procedures and Dapper.
-- Diagnosed and resolved backend issues while optimizing complex queries to improve performance and reliability.
-- Implemented new features by following existing architecture, ensuring clean, maintainable and scalable code.
 
 ## 🎯 Featured Projects
 I believe in **Clean Architecture** and building systems that are maintainable and scalable. Here are some of my best works:
