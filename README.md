@@ -10,7 +10,7 @@
 
 ## 🚀 About Me <img src="https://komarev.com/ghpvc/?username=dabananda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" style="margin-left:15" />
 
-I'm a Software Engineer at Bdjobs.com and a Computer Science and Engineering (CSE) graduate from the Institute of Science Trade & Technology (ISTT). I specialize in building and maintaining scalable, secure backend systems using C#, ASP.NET Core and SQL Server. I love solving complex problems and have solved 700+ algorithmic challenges across multiple platforms, blending strong algorithmic thinking with practical full-stack development.
+I'm a Software Engineer at Bdjobs.com and a Computer Science and Engineering (CSE) graduate from the Institute of Science Trade & Technology (ISTT). I am specialized in building and maintaining scalable, secure backend systems using C#, ASP.NET Core and SQL Server. I love solving complex problems and have solved 700+ algorithmic challenges across multiple platforms, blending strong algorithmic thinking with practical full-stack development.
 
 - 🎓 **Education:** B.Sc. in Computer Science and Engineering (CSE) - Graduated Dec, 2025 (Mirpur 15, Dhaka, Bangladesh)
 - 💼 **Currently working at:** Bdjobs.com as a Software Engineer
