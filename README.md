@@ -22,7 +22,7 @@ I'm a Software Engineer at Bdjobs.com and a Computer Science and Engineering (CS
 
 ## 📝 Resume & Portfolio
 <div align="center">
-  <a href="https://drive.google.com/file/d/1oszUZHQT4MtPHSKtqtKdV2jZZzUetu_t/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1bEPwyM8Cqm27UHKZWrEQbMv8XHkXYgY9/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
   <a href="https://dmitra.me" target="_blank">
