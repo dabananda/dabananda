@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;.NET+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me <img src="https://komarev.com/ghpvc/?username=dabananda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" style="margin-left:15" />
