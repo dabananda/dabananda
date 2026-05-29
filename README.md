@@ -1,4 +1,4 @@
-# Hi there, I'm Dabananda Mitra! 👋
+# Hi there, I'm Dabananda Mitra!
 
 <div align="center">
   <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" alt="Dabananda Mitra" width="200" height="200" style="border-radius: 50%; border: 3px solid #2E96F7;" />
