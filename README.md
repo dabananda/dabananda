@@ -1,8 +1,8 @@
 # Hi there, I'm Dabananda Mitra!
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" alt="Dabananda Mitra" width="200" height="200" style="border-radius: 50%; border: 3px solid #2E96F7;" />
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver;.NET+Developer" alt="Typing SVG" />
