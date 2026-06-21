@@ -1,160 +1,63 @@
-# Hi there, I'm Dabananda Mitra 👋
-
 <div align="center">
 
-<img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" alt="Dabananda Mitra" width="200" />
+<img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" width="150" style="border-radius: 50%;" alt="Dabananda Mitra" />
 
-<br/>
+# Hi, I'm Dabananda Mitra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Engineer;ASP.NET+Core+Developer;Domain-Driven+Design+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+### Software Engineer • C# / ASP.NET Core • SQL Server • Building scalable backend systems
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E96F7?style=for-the-badge\&logo=firefox\&logoColor=white)](https://dmitra.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dabananda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dabananda.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dabananda.vercel.app-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://dabananda.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-Read_my_articles-10b981?style=flat-square&logo=hashnode&logoColor=white)](https://dabananda.vercel.app/blog)
+[![Email](https://img.shields.io/badge/Email-dabananda.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dabananda.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabananda)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801304080014)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img src="https://komarev.com/ghpvc/?username=dabananda&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+I'm a Software Engineer with hands-on experience building and maintaining backend systems using **C#, ASP.NET Core, SQL Server, EF Core, and Dapper**. I enjoy API development, ERP application maintenance, debugging complex backend issues, and designing scalable software architecture following **SOLID principles** and clean coding practices.
 
-I'm a Software Engineer passionate about designing scalable backend systems and building maintainable software using modern engineering principles.
-
-Currently working at **LEADS Corporation Limited**, where I contribute to enterprise financial software solutions built with ASP.NET Core, SQL Server, Stored Procedures, and Dapper.
-
-My interests extend beyond coding into software architecture, Domain-Driven Design (DDD), Clean Architecture, CQRS, and building systems that are reliable, scalable, and easy to maintain.
-
-* 💼 Software Engineer at **LEADS Corporation Limited**
-* 🎓 B.Sc. in Computer Science & Engineering (CSE)
-* 🏗️ Passionate about Backend Engineering & Software Architecture
-* 🧠 Exploring DDD, CQRS, Modular Monoliths & System Design
-* 🏆 Solved **700+** algorithmic problems
-* ✍️ Technical Writer sharing software engineering knowledge
-* 🌍 Love traveling, exploring cultures, and discovering new places
-* 📍 Dhaka, Bangladesh
-
----
-
-## 🎯 Current Focus
-
-* Domain-Driven Design (DDD)
-* CQRS & Vertical Slice Architecture
-* Modular Monolith Architecture
-* Clean Architecture
-* Software Architecture & System Design
-* High Performance ASP.NET Core Applications
-* Technical Writing & Knowledge Sharing
+- 🏢 Currently working as a **Software Engineer at LEADS Corporation Limited**, maintaining financial applications and contributing to a legacy-to-ASP.NET-Core migration.
+- 🎓 B.Sc. in Computer Science & Engineering, Institute of Science Trade & Technology (ISTT), Dhaka.
+- 🧩 Solved **650+ problems** across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
+- ✍️ Writing about software engineering on LinkedIn and on [my blog](https://dabananda.vercel.app/blog).
+- 🌱 Exploring **DDD, CQRS, Modular Monolith** architecture, and cloud-native patterns.
 
 ---
 
 ## 💼 Professional Experience
 
-### Software Engineer — LEADS Corporation Limited
+| Role | Company | Duration |
+|---|---|---|
+| Software Engineer | LEADS Corporation Limited | June 2026 – Present |
+| Software Engineer (Intern) | Bdjobs.com | Apr 2026 – Jun 2026 |
+| Software Engineer (Intern) | AKIJ iBOS | Mar 2026 – Apr 2026 |
 
-**June 2026 – Present**
-
-* Maintaining financial software solutions using ASP.NET Core, SQL Server, Stored Procedures and Dapper.
-* Contributing to migration of legacy applications to ASP.NET Core.
-* Improving maintainability, scalability and reliability of enterprise systems.
-
-### Software Engineer (Intern) — Bdjobs.com
-
-**April 2026 – June 2026**
-
-* Developed backend features using ASP.NET Core APIs, SQL Server, Stored Procedures and Dapper.
-* Participated in migration from Classic ASP to ASP.NET Core.
-* Followed existing architecture and clean coding practices.
-
-### Software Engineer (Intern) — AKIJ iBOS
-
-**March 2026 – April 2026**
-
-* Debugged backend APIs and ERP systems.
-* Worked with ASP.NET Core, SQL Server, LINQ and Stored Procedures.
-* Implemented new features and optimized database queries.
-
----
-
-## 📝 Resume & Portfolio
-
-<div align="center">
-
-<a href="YOUR_RESUME_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
-</a>
-
-<a href="https://dmitra.me" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2E96F7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
+> Migrated legacy ASP applications to ASP.NET Core, optimized SQL Server queries and stored procedures, and fixed backend bugs across ERP and financial systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category                    | Technologies                                                                                                                   |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **💻 Languages**            | C#, JavaScript, TypeScript, SQL, C++                                                                                           |
-| **⚙️ Backend**              | ASP.NET Core, MVC, REST API, Entity Framework Core, Dapper, LINQ, JWT Authentication                                           |
-| **🎨 Frontend**             | Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap                                                          |
-| **🗄️ Database**            | SQL Server, Stored Procedures                                                                                                  |
-| **🛠️ Tools & Platforms**   | Git, GitHub, GitLab, Docker, Redis, Postman, Stripe                                                                            |
-| **🧠 Software Engineering** | OOP, SOLID Principles, Clean Code, DDD, CQRS, MediatR, Repository Pattern, Modular Monolith, Clean Architecture, System Design |
+| Category | Skills |
+|---|---|
+| **Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) ![MVC](https://img.shields.io/badge/MVC-512BD4?style=flat-square) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square) ![Dapper](https://img.shields.io/badge/Dapper-A91D22?style=flat-square) ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat-square) ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Database & Tools** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-CC2927?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
+| **Core Concepts** | ![OOP](https://img.shields.io/badge/OOP-blue?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-blue?style=flat-square) ![Clean Code](https://img.shields.io/badge/Clean_Code-blue?style=flat-square) ![DDD](https://img.shields.io/badge/DDD-blue?style=flat-square) ![CQRS](https://img.shields.io/badge/CQRS-blue?style=flat-square) ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-blue?style=flat-square) ![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-blue?style=flat-square) |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                            | Tech Stack                                                 | Highlights                                                                        |
-| ---------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 🏢 **Apartment Management System** | ASP.NET Core MVC, Identity, SQL Server, Cloudinary, Stripe | Multi-tenant architecture, RBAC, automated rent billing and payment workflow      |
-| 🛒 **E-Commerce REST API**         | ASP.NET Core Web API, EF Core, JWT, SQL Server, Stripe     | JWT authentication, refresh tokens, RBAC, Repository Pattern and FluentValidation |
-| 🌐 **Portfolio CMS**               | ASP.NET Core Web API, Next.js, Identity, JWT, SQL Server   | Clean Architecture, multi-tenant platform, rate limiting and blogging             |
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform      | Achievement        |
-| ------------- | ------------------ |
-| 💡 LeetCode   | 180+ Problems      |
-| ⭐ HackerRank  | 5★ Problem Solving |
-| 🏅 CodeChef   | Max Rating: 1338   |
-| 🔥 Codeforces | Max Rating: 776    |
-
-</div>
-
-**Total Problems Solved: 700+**
-
----
-
-## 🌟 Leadership Experience
-
-### President — HEAP Computer Club, ISTT
-
-**Oct 2024 – Dec 2025**
-
-* Mentored a team of 10+ members.
-* Organized 5+ technical seminars.
-* Reached 100+ students through technical events.
-
----
-
-## 🏅 Certifications
-
-| Certification                  | Provider   |
-| ------------------------------ | ---------- |
-| C# Certificate                 | HackerRank |
-| Python Certificate             | HackerRank |
-| The Complete ReactJS Course    | Udemy      |
-| Technical Support Fundamentals | Google     |
+| Project | Tech Stack | Description | Links |
+|---|---|---|---|
+| 🏠 **Apartment Management** | ASP.NET Core MVC, Identity, SQL Server, Cloudinary, Stripe | Multi-tenant property management platform with RBAC and automated rent billing workflow. Reduced manual processes through automation and optimized media delivery using a CDN. | [Code](https://github.com/dabananda) · [Live](#) |
+| 🛒 **E-Commerce REST API** | ASP.NET Core Web API, EF Core, JWT, SQL Server, Stripe | RESTful API with RBAC, JWT + refresh tokens, and integrated Stripe payments. Built with the Repository & Service pattern and FluentValidation for maintainability. | [Code](https://github.com/dabananda) · [Live](#) |
+| 📝 **Portfolio CMS** | ASP.NET Core Web API, Identity, JWT, Next.js, SQL Server | Multi-tenant platform built with Clean Architecture, featuring JWT auth, email verification, rate limiting, portfolio management, and blog posting. | [Code](https://github.com/dabananda) · [Live](#) |
 
 ---
 
@@ -162,44 +65,46 @@ My interests extend beyond coding into software architecture, Domain-Driven Desi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dabananda's GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight&hide_border=true" alt="Dabananda's GitHub Streak" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dabananda&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 
----
-
-## ✍️ Latest Interests
-
-* Software Architecture
-* Domain-Driven Design
-* Distributed Systems
-* ASP.NET Core Performance
-* System Design
-* Technical Writing
-* Backend Engineering
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E96F7?style=for-the-badge\&logo=firefox\&logoColor=white)](https://dmitra.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dabananda.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dabananda)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dabananda)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://fb.com/dabanandamitra)
+![Profile Views](https://komarev.com/ghpvc/?username=dabananda&style=flat-square&color=2563eb&label=Profile+Views)
 
 </div>
 
 ---
 
+## 🏆 Achievements & Certifications
+
+- 🧠 **Problem Solving:** 650+ problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
+- 📜 **Certifications:** C# (HackerRank) · React (Udemy) · Python (HackerRank) · Technical Support (Google)
+- 🤝 **Leadership:** President, HEAP Computer Club (ISTT) — Oct 2024 to Dec 2025. Mentored a 10+ member team and organized 5+ technical seminars on modern software engineering reaching 100+ students.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabananda)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dabanandamitra)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dabanandamitra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dabananda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dabananda.vercel.app)
+[![Blog](https://img.shields.io/badge/Blog-10b981?style=for-the-badge&logo=hashnode&logoColor=white)](https://dabananda.vercel.app/blog)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801304080014)
+
+**Competitive Programming:**
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dabanandamitra)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dabanandamitra)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dabanandamitra)
+
+---
+
 <div align="center">
 
-### Thanks for visiting! 👋
-
-Building scalable software, sharing knowledge, and continuously learning.
+💬 **Open to backend engineering and full-stack opportunities** — feel free to reach out via email or WhatsApp.
 
 </div>
