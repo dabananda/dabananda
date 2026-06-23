@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" width="150" style="border-radius: 50%;" alt="Dabananda Mitra" />
 
 # Hi, I'm Dabananda Mitra
 
-### Software Engineer • C# / ASP.NET Core • SQL Server • Building scalable backend systems
+### Software Engineer | C# • ASP.NET • ASP.NET Core • SQL Server • Oracle • Redis • Docker
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dabananda.vercel.app-2563eb?style=flat-square&logo=vercel&logoColor=white)](https://dabananda.vercel.app)
 [![Blog](https://img.shields.io/badge/Blog-Read_my_articles-10b981?style=flat-square&logo=hashnode&logoColor=white)](https://dabananda.vercel.app/blog)
@@ -18,13 +19,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with hands-on experience building and maintaining backend systems using **C#, ASP.NET Core, SQL Server, EF Core, and Dapper**. I enjoy API development, ERP application maintenance, debugging complex backend issues, and designing scalable software architecture following **SOLID principles** and clean coding practices.
+I'm a Software Engineer with hands-on experience building and maintaining backend systems using **C#, ASP.NET, ASP.NET Core, SQL Server, Oracle, EF Core, Dapper, Redis and Docker**. I enjoy API development, ERP application maintenance, debugging complex backend issues and designing scalable software architecture following **SOLID principles** and clean coding practices.
 
-- 🏢 Currently working as a **Software Engineer at LEADS Corporation Limited**, maintaining financial applications and contributing to a legacy-to-ASP.NET-Core migration.
-- 🎓 B.Sc. in Computer Science & Engineering, Institute of Science Trade & Technology (ISTT), Dhaka.
-- 🧩 Solved **650+ problems** across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
-- ✍️ Writing about software engineering on LinkedIn and on [my blog](https://dabananda.vercel.app/blog).
-- 🌱 Exploring **DDD, CQRS, Modular Monolith** architecture, and cloud-native patterns.
+- 🏢 Currently working as a **Software Engineer at LEADS Corporation Limited**, maintaining financial solutions.
+- 🎓 B.Sc. in Computer Science & Engineering (CSE) from Institute of Science Trade & Technology (ISTT), Dhaka.
+- 🧩 Solved **700+ problems** across LeetCode, CodeChef, HackerRank, Codeforces, UVa and other online judges.
+- ✍️ Writing about software engineering on [LinkedIn](https://www.linkedin.com/in/dabananda/) and on [my blog](https://dabananda.vercel.app/blog).
+- 🌱 Exploring **DDD, CQRS, Modular Monolith & Microservice architecture and cloud services**.
 
 ---
 
@@ -33,10 +34,8 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 | Role | Company | Duration |
 |---|---|---|
 | Software Engineer | LEADS Corporation Limited | June 2026 – Present |
-| Software Engineer (Intern) | Bdjobs.com | Apr 2026 – Jun 2026 |
+| Software Engineer | Bdjobs.com | Apr 2026 – Jun 2026 |
 | Software Engineer (Intern) | AKIJ iBOS | Mar 2026 – Apr 2026 |
-
-> Migrated legacy ASP applications to ASP.NET Core, optimized SQL Server queries and stored procedures, and fixed backend bugs across ERP and financial systems.
 
 ---
 
@@ -55,9 +54,9 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 | Project | Tech Stack | Description | Links |
 |---|---|---|---|
-| 🏠 **Apartment Management** | ASP.NET Core MVC, Identity, SQL Server, Cloudinary, Stripe | Multi-tenant property management platform with RBAC and automated rent billing workflow. Reduced manual processes through automation and optimized media delivery using a CDN. | [Code](https://github.com/dabananda) · [Live](#) |
-| 🛒 **E-Commerce REST API** | ASP.NET Core Web API, EF Core, JWT, SQL Server, Stripe | RESTful API with RBAC, JWT + refresh tokens, and integrated Stripe payments. Built with the Repository & Service pattern and FluentValidation for maintainability. | [Code](https://github.com/dabananda) · [Live](#) |
-| 📝 **Portfolio CMS** | ASP.NET Core Web API, Identity, JWT, Next.js, SQL Server | Multi-tenant platform built with Clean Architecture, featuring JWT auth, email verification, rate limiting, portfolio management, and blog posting. | [Code](https://github.com/dabananda) · [Live](#) |
+| **Apartment Management** | ASP.NET Core MVC, Identity, SQL Server, Cloudinary, Stripe | Multi-tenant property management platform with RBAC and automated rent billing workflow. Reduced manual processes through automation and optimized media delivery using a CDN. | [Code](https://github.com/dabananda) · [Live](#) |
+| **E-Commerce REST API** | ASP.NET Core Web API, EF Core, JWT, SQL Server, Stripe | RESTful API with RBAC, JWT + refresh tokens, and integrated Stripe payments. Built with the Repository & Service pattern and FluentValidation for maintainability. | [Code](https://github.com/dabananda) · [Live](#) |
+| **Portfolio CMS** | ASP.NET Core Web API, Identity, JWT, Next.js, SQL Server | Multi-tenant platform built with Clean Architecture, featuring JWT auth, email verification, rate limiting, portfolio management, and blog posting. | [Code](https://github.com/dabananda) · [Live](#) |
 
 ---
 
@@ -80,9 +79,9 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ## 🏆 Achievements & Certifications
 
-- 🧠 **Problem Solving:** 650+ problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
-- 📜 **Certifications:** C# (HackerRank) · React (Udemy) · Python (HackerRank) · Technical Support (Google)
-- 🤝 **Leadership:** President, HEAP Computer Club (ISTT) — Oct 2024 to Dec 2025. Mentored a 10+ member team and organized 5+ technical seminars on modern software engineering reaching 100+ students.
+- **Problem Solving:** 650+ problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
+- **Certifications:** C# (HackerRank) · React (Udemy) · Python (HackerRank) · Technical Support (Google)
+- **Leadership:** President, HEAP Computer Club (ISTT) — Oct 2024 to Dec 2025. Mentored a 10+ member team and organized 5+ technical seminars on modern software engineering reaching 100+ students.
 
 ---
 
@@ -95,8 +94,6 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dabananda.vercel.app)
 [![Blog](https://img.shields.io/badge/Blog-10b981?style=for-the-badge&logo=hashnode&logoColor=white)](https://dabananda.vercel.app/blog)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801304080014)
-
-**Competitive Programming:**
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dabanandamitra)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dabanandamitra)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dabanandamitra)
