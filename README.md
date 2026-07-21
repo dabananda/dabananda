@@ -25,7 +25,7 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 - 🏢 Currently working as a **Software Engineer at LEADS Corporation Limited**, maintaining Core Banking Solutions.
 - 🎓 B.Sc. in Computer Science & Engineering (CSE) from Institute of Science Trade & Technology (ISTT), Dhaka.
-- 🧩 Solved **700+ problems** across LeetCode, CodeChef, HackerRank, Codeforces, UVa and other online judges.
+- 🧩 Solved **<!-- START_TOTAL_PROBLEMS -->861<!-- END_TOTAL_PROBLEMS -->** problems across LeetCode, CodeChef, HackerRank, Codeforces, UVa and other online judges — tracked in [CodeVault](https://github.com/dabananda/CodeVault).
 - ✍️ Writing about software engineering on [LinkedIn](https://www.linkedin.com/in/dabananda/) and on [my blog](https://dabananda.vercel.app/blog).
 - 🌱 Exploring **CQRS, Modular Monolith architecture, Clean architecture, Domain-Driven Design, Aggregate Root Pattern and cloud services**.
 
@@ -79,9 +79,77 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ---
 
+## 📁 Repository Overview
+
+> Also updated automatically by a scheduled GitHub Action.
+
+<div align="center">
+
+<!-- START_REPO_SUMMARY -->**0 total repositories** — 0 public · 0 private<!-- END_REPO_SUMMARY -->
+
+</div>
+
+<!-- START_REPO_TABLE -->
+| Repository | Description | Language | Commits | Visibility | Last Updated |
+|---|---|---|---:|---|---|
+<!-- END_REPO_TABLE -->
+
+---
+
+## 🧩 Problem Solving Stats
+
+> Pulled automatically from [dabananda/CodeVault](https://github.com/dabananda/CodeVault) by a scheduled GitHub Action — always in sync with what's actually solved there.
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- START_PLATFORM_STATS -->
+| Platform | Problems |
+|----------|---------:|
+| Codeforces | 296 |
+| HackerRank | 190 |
+| LeetCode | 168 |
+| BeeCrowd | 70 |
+| Coding Ninjas | 51 |
+| UVA | 46 |
+| CodeChef | 16 |
+| GeeksforGeeks | 12 |
+| VJudge | 12 |
+| **Total** | **861** |
+<!-- END_PLATFORM_STATS -->
+
+</td>
+<td valign="top" width="50%">
+
+<!-- START_LANGUAGE_STATS -->
+| Language | Solutions |
+|----------|----------:|
+| C++ | 670 |
+| C | 113 |
+| Java | 50 |
+| Python | 44 |
+| JavaScript | 19 |
+| C# | 11 |
+| SQL | 8 |
+| **Total** | **915** |
+<!-- END_LANGUAGE_STATS -->
+
+</td>
+</tr>
+</table>
+
+Last updated: <!-- START_LAST_UPDATED -->2026-07-21 03:29 UTC<!-- END_LAST_UPDATED --> · Source: [CodeVault](https://github.com/dabananda/CodeVault)
+
+</div>
+
+---
+
 ## 🏆 Achievements & Certifications
 
-- **Problem Solving:** 700+ problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
+- **Problem Solving:** <!-- START_TOTAL_PROBLEMS -->861<!-- END_TOTAL_PROBLEMS --> problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
 - **Certifications:** C# (HackerRank) · React (Udemy) · Python (HackerRank) · Technical Support (Google)
 - **Leadership:** President, HEAP Computer Club (ISTT) — Oct 2024 to Dec 2025. Mentored a 10+ member team and organized 5+ technical seminars on modern software engineering reaching 100+ students.
 

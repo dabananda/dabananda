@@ -1,0 +1,45 @@
+name: Update Solving Stats
+
+on:
+  schedule:
+    # Runs once a day at 00:00 UTC.
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  # Lets CodeVault ping this repo right after a push so the profile
+  # README updates within seconds instead of waiting for the next
+  # scheduled run. See the note in README.md / CodeVault's workflow
+  # for how to wire this up with a PAT.
+  repository_dispatch:
+    types: [codevault-updated]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update README with latest CodeVault stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_solving_stats.py
+
+      - name: Update README with repository stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_GH_TOKEN: ${{ secrets.PROFILE_GH_TOKEN }}
+        run: python scripts/update_repo_stats.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: sync problem solving stats from CodeVault"
