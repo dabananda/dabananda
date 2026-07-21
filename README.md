@@ -81,8 +81,6 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ## 📁 Repository Overview
 
-> Also updated automatically by a scheduled GitHub Action.
-
 <div align="center">
 
 <!-- START_REPO_SUMMARY -->**0 total repositories** — 0 public · 0 private<!-- END_REPO_SUMMARY -->
@@ -97,8 +95,6 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 ---
 
 ## 🧩 Problem Solving Stats
-
-> Pulled automatically from [dabananda/CodeVault](https://github.com/dabananda/CodeVault) by a scheduled GitHub Action — always in sync with what's actually solved there.
 
 <div align="center">
 
