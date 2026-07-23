@@ -83,8 +83,6 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 <div align="center">
 
-<!-- START_REPO_SUMMARY -->**12 public repositories** _(private repo count unavailable without an authenticated token — add a `PROFILE_GH_TOKEN` secret to include it)_<!-- END_REPO_SUMMARY -->
-
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
@@ -140,8 +138,6 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 </td>
 </tr>
 </table>
-
-Last updated: <!-- START_LAST_UPDATED -->2026-07-23 02:03 UTC<!-- END_LAST_UPDATED --> · Source: [CodeVault](https://github.com/dabananda/CodeVault)
 
 </div>
 
