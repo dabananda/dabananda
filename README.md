@@ -79,30 +79,22 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ---
 
-## 📁 Repository Overview
+## 📁 Repository Statistics
 
 <div align="center">
 
 <!-- START_REPO_SUMMARY -->**12 public repositories** _(private repo count unavailable without an authenticated token — add a `PROFILE_GH_TOKEN` secret to include it)_<!-- END_REPO_SUMMARY -->
 
-</div>
+<!-- START_REPO_STATS -->
+| Metric | Value |
+|---|---|
+| Total Commits | 1134 |
+| Most Used Language | C# (7 repos) |
+| Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (535 commits) |
+| Last Push | 2026-07-20 |
+<!-- END_REPO_STATS -->
 
-<!-- START_REPO_TABLE -->
-| Repository | Description | Language | Commits | Visibility | Last Updated |
-|---|---|---|---:|---|---|
-| [CodeVault](https://github.com/dabananda/CodeVault) | CodeVault is my collection of daily problem solutions from various online judges like Codeforces, LeetCode, and HackerRank. I share solutions for a range of topics, including data structures, algorithms and dynamic programming. | C++ | 535 | 🌐 Public | 2026-07-20 |
-| [CommentApi](https://github.com/dabananda/CommentApi) | This is a simple API project developed to provide a comment feature for my blog posts. | C# | 20 | 🌐 Public | 2026-07-19 |
-| [LearnForge](https://github.com/dabananda/LearnForge) | LearnForge is a personal project practice platform and coding playground where I implement concepts, tools, and architectures that I learn during my software engineering journey. | JavaScript | 32 | 🌐 Public | 2026-07-13 |
-| [FinanceTracker](https://github.com/dabananda/FinanceTracker) | Personal Finance Tracker App | C# | 40 | 🌐 Public | 2026-06-15 |
-| [ApartmentManagementSystem](https://github.com/dabananda/ApartmentManagementSystem) | A comprehensive role based apartment management system | C# | 217 | 🌐 Public | 2026-06-08 |
-| [EPaper](https://github.com/dabananda/EPaper) | _No description_ | C# | 38 | 🌐 Public | 2026-05-11 |
-| [PortfolioCMS](https://github.com/dabananda/PortfolioCMS) | _No description_ | TypeScript | 74 | 🌐 Public | 2026-05-07 |
-| [NZWalks](https://github.com/dabananda/NZWalks) | _No description_ | C# | 19 | 🌐 Public | 2026-05-04 |
-| [ECommerce](https://github.com/dabananda/ECommerce) | A robust, RESTful Web API for an E-Commerce platform built with .NET 10, Entity Framework Core and SQL Server. This project demonstrates enterprise-grade patterns including Repository Design, Layered Architecture, JWT Authentication and Structured Logging. | C# | 30 | 🌐 Public | 2026-02-14 |
-| [CleanAuthTemplate](https://github.com/dabananda/CleanAuthTemplate) | A production-ready ASP.NET Core Web API template built with Clean Architecture principles. This starter kit comes pre-configured with Identity Authentication, JWT Security, Role Management, Email Verification, Serilog Logging and Global Exception Handling. | C# | 16 | 🌐 Public | 2026-02-10 |
-| [RentManagement](https://github.com/dabananda/RentManagement) | _No description_ | C# | 78 | 🌐 Public | 2025-10-28 |
-| [BloodConnect](https://github.com/dabananda/BloodConnect) | BloodConnect is a campus-based blood donation management web application built with ASP.NET Core MVC. It enables students to connect with blood donors in under a minute, making the life-saving process faster and more efficient. | C# | 35 | 🌐 Public | 2025-07-05 |
-<!-- END_REPO_TABLE -->
+</div>
 
 ---
 
