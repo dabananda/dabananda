@@ -1,8 +1,9 @@
 """
 Fetches Dabananda's GitHub repositories and writes:
   - a public / private / total repo count summary
-  - a table of every repo with its description, primary language,
-    total commit count (on the default branch), and last-updated date
+  - an aggregate statistics table: total commits across all repos,
+    the most-used primary language, the most-active repo (by commit
+    count), and the most recent push date
 
 IMPORTANT - about private repos:
   The default `GITHUB_TOKEN` that GitHub Actions injects only has access
@@ -141,32 +142,48 @@ def main():
     # Sort by most-recently-pushed first.
     repos.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
 
-    rows = []
+    total_commits = 0
+    most_active = None  # (name, url, commits)
+    language_counts = {}
+
     for repo in repos:
         name = repo["name"]
-        description = (repo.get("description") or "_No description_").replace("|", "\\|")
-        language = repo.get("language") or "—"
-        visibility = "🔒 Private" if repo.get("private") else "🌐 Public"
-        pushed_at = repo.get("pushed_at")
-        last_updated = (
-            datetime.strptime(pushed_at, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
-            if pushed_at
-            else "—"
-        )
+        language = repo.get("language")
+        if language:
+            language_counts[language] = language_counts.get(language, 0) + 1
 
         commits = fetch_commit_count(USERNAME, name, repo.get("default_branch") or "main")
-        commits_display = str(commits) if commits is not None else "—"
+        if commits is not None:
+            total_commits += commits
+            url = repo.get("html_url", f"https://github.com/{USERNAME}/{name}")
+            if most_active is None or commits > most_active[2]:
+                most_active = (name, url, commits)
 
-        url = repo.get("html_url", f"https://github.com/{USERNAME}/{name}")
+    most_pushed_at = repos[0].get("pushed_at") if repos else None
+    last_push = (
+        datetime.strptime(most_pushed_at, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
+        if most_pushed_at
+        else "—"
+    )
 
-        rows.append(
-            f"| [{name}]({url}) | {description} | {language} | {commits_display} "
-            f"| {visibility} | {last_updated} |"
-        )
+    if language_counts:
+        top_language, top_language_count = max(language_counts.items(), key=lambda kv: kv[1])
+        top_language_display = f"{top_language} ({top_language_count} repos)"
+    else:
+        top_language_display = "—"
 
-    repo_table = (
-        "| Repository | Description | Language | Commits | Visibility | Last Updated |\n"
-        "|---|---|---|---:|---|---|\n" + "\n".join(rows)
+    if most_active:
+        most_active_display = f"[{most_active[0]}]({most_active[1]}) ({most_active[2]} commits)"
+    else:
+        most_active_display = "—"
+
+    repo_stats = (
+        "| Metric | Value |\n"
+        "|---|---|\n"
+        f"| Total Commits | {total_commits} |\n"
+        f"| Most Used Language | {top_language_display} |\n"
+        f"| Most Active Repo | {most_active_display} |\n"
+        f"| Last Push | {last_push} |"
     )
 
     if not using_pat and private_count == 0:
@@ -188,7 +205,7 @@ def main():
         readme, "<!-- START_REPO_SUMMARY -->", "<!-- END_REPO_SUMMARY -->", repo_summary
     )
     readme = replace_between(
-        readme, "<!-- START_REPO_TABLE -->", "<!-- END_REPO_TABLE -->", repo_table
+        readme, "<!-- START_REPO_STATS -->", "<!-- END_REPO_STATS -->", repo_stats
     )
 
     with open(README, "w", encoding="utf-8") as f:
