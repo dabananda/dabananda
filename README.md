@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" width="150" style="border-radius: 50%;" alt="Dabananda Mitra" />
@@ -98,46 +97,19 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ## 🧩 Problem Solving Stats
 
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<!-- START_PLATFORM_STATS -->
-| Platform | Problems |
-|----------|---------:|
-| Codeforces | 296 |
-| HackerRank | 190 |
-| LeetCode | 168 |
-| BeeCrowd | 70 |
-| Coding Ninjas | 51 |
-| UVA | 46 |
-| CodeChef | 16 |
-| GeeksforGeeks | 12 |
-| VJudge | 12 |
-| **Total** | **861** |
-<!-- END_PLATFORM_STATS -->
-
-</td>
-<td valign="top" width="50%">
+<div>
 
 <!-- START_LANGUAGE_STATS -->
-| Language | Solutions |
-|----------|----------:|
-| C++ | 670 |
-| C | 113 |
-| Java | 50 |
-| Python | 44 |
-| JavaScript | 19 |
-| C# | 11 |
-| SQL | 8 |
-| **Total** | **915** |
+| **Total** | C++ | C | Java | Python | JavaScript | C# | SQL |
+|----------:|----:|--:|-----:|-------:|-----------:|---:|----:|
+| **915** | 670 | 113 | 50 | 44 | 19 | 11 | 8 |
 <!-- END_LANGUAGE_STATS -->
 
-</td>
-</tr>
-</table>
+<!-- START_PLATFORM_STATS -->
+| **Total** | Codeforces | HackerRank | LeetCode | BeeCrowd | Coding Ninjas | UVA | CodeChef | GeeksforGeeks | VJudge |
+|----------:|-----------:|-----------:|---------:|---------:|--------------:|----:|---------:|--------------:|-------:|
+| **861** | 296 | 190 | 168 | 70 | 51 | 46 | 16 | 12 | 12 |
+<!-- END_PLATFORM_STATS -->
 
 </div>
 
