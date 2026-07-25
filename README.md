@@ -24,7 +24,7 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 - 🏢 Currently working as a **Software Engineer at LEADS Corporation Limited**, maintaining Core Banking Solutions.
 - 🎓 B.Sc. in Computer Science & Engineering (CSE) from Institute of Science Trade & Technology (ISTT), Dhaka.
-- 🧩 Solved **<!-- START_TOTAL_PROBLEMS -->861<!-- END_TOTAL_PROBLEMS -->** problems across LeetCode, CodeChef, HackerRank, Codeforces, UVa and other online judges — tracked in [CodeVault](https://github.com/dabananda/CodeVault).
+- 🧩 Solved **<!-- START_TOTAL_PROBLEMS -->846<!-- END_TOTAL_PROBLEMS -->** problems across LeetCode, CodeChef, HackerRank, Codeforces, UVa and other online judges — tracked in [CodeVault](https://github.com/dabananda/CodeVault).
 - ✍️ Writing about software engineering on [LinkedIn](https://www.linkedin.com/in/dabananda/) and on [my blog](https://dabananda.vercel.app/blog).
 - 🌱 Exploring **CQRS, Modular Monolith architecture, Clean architecture, Domain-Driven Design, Aggregate Root Pattern and cloud services**.
 
@@ -85,10 +85,10 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
-| Total Commits | 1135 |
+| Total Commits | 1144 |
 | Most Used Language | C# (10 repos) |
-| Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (535 commits) |
-| Last Push | 2026-07-23 |
+| Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (544 commits) |
+| Last Push | 2026-07-24 |
 <!-- END_REPO_STATS -->
 
 </div>
@@ -100,15 +100,31 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 <div>
 
 <!-- START_LANGUAGE_STATS -->
-| **Total** | C++ | C | Java | Python | JavaScript | C# | SQL |
-|----------:|----:|--:|-----:|-------:|-----------:|---:|----:|
-| **915** | 670 | 113 | 50 | 44 | 19 | 11 | 8 |
+| Language | Solutions |
+|----------|----------:|
+| C++ | 668 |
+| C | 113 |
+| Java | 50 |
+| Python | 44 |
+| JavaScript | 19 |
+| C# | 11 |
+| SQL | 8 |
+| **Total** | **913** |
 <!-- END_LANGUAGE_STATS -->
 
 <!-- START_PLATFORM_STATS -->
-| **Total** | Codeforces | HackerRank | LeetCode | BeeCrowd | Coding Ninjas | UVA | CodeChef | GeeksforGeeks | VJudge |
-|----------:|-----------:|-----------:|---------:|---------:|--------------:|----:|---------:|--------------:|-------:|
-| **861** | 296 | 190 | 168 | 70 | 51 | 46 | 16 | 12 | 12 |
+| Platform | Problems |
+|----------|---------:|
+| Codeforces | 296 |
+| HackerRank | 190 |
+| LeetCode | 166 |
+| BeeCrowd | 57 |
+| Coding Ninjas | 51 |
+| UVA | 46 |
+| CodeChef | 16 |
+| GeeksforGeeks | 12 |
+| VJudge | 12 |
+| **Total** | **846** |
 <!-- END_PLATFORM_STATS -->
 
 </div>
@@ -117,7 +133,7 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ## 🏆 Achievements & Certifications
 
-- **Problem Solving:** <!-- START_TOTAL_PROBLEMS -->861<!-- END_TOTAL_PROBLEMS --> problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
+- **Problem Solving:** <!-- START_TOTAL_PROBLEMS -->846<!-- END_TOTAL_PROBLEMS --> problems solved across LeetCode, CodeChef, HackerRank, Codeforces, and UVa.
 - **Certifications:** C# (HackerRank) · React (Udemy) · Python (HackerRank) · Technical Support (Google)
 - **Leadership:** President, HEAP Computer Club (ISTT) — Oct 2024 to Dec 2025. Mentored a 10+ member team and organized 5+ technical seminars on modern software engineering reaching 100+ students.
 
