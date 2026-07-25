@@ -97,9 +97,14 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 
 ## 🧩 Problem Solving Stats
 
-<div>
+<div align="center">
+
+<table>
+<tr>
+<td valign="top">
 
 <!-- START_LANGUAGE_STATS -->
+
 | Language | Solutions |
 |----------|----------:|
 | C++ | 668 |
@@ -110,9 +115,17 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 | C# | 11 |
 | SQL | 8 |
 | **Total** | **913** |
+
 <!-- END_LANGUAGE_STATS -->
 
+</td>
+
+<td width="40"></td>
+
+<td valign="top">
+
 <!-- START_PLATFORM_STATS -->
+
 | Platform | Problems |
 |----------|---------:|
 | Codeforces | 296 |
@@ -125,7 +138,12 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 | GeeksforGeeks | 12 |
 | VJudge | 12 |
 | **Total** | **846** |
+
 <!-- END_PLATFORM_STATS -->
+
+</td>
+</tr>
+</table>
 
 </div>
 
