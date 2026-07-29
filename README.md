@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" width="150" style="border-radius: 50%;" alt="Dabananda Mitra" />
@@ -77,7 +78,6 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 </div>
 
 ---
-
 ## 📁 Repository Statistics
 
 <div align="center">
@@ -90,6 +90,12 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (544 commits) |
 | Last Push | 2026-07-24 |
 <!-- END_REPO_STATS -->
+
+<div align="center">
+
+_Last synced: <!-- START_LAST_UPDATED -->—<!-- END_LAST_UPDATED --> — <!-- START_REPO_SUMMARY -->—<!-- END_REPO_SUMMARY -->_
+
+</div>
 
 </div>
 
