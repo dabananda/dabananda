@@ -89,13 +89,8 @@ I'm a Software Engineer with hands-on experience building and maintaining backen
 | Most Used Language | C# (10 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (544 commits) |
 | Last Push | 2026-07-30 |
+| Last Committed Project | [CodeVault](https://github.com/dabananda/CodeVault) |
 <!-- END_REPO_STATS -->
-
-<div align="center">
-
-_Last synced: <!-- START_LAST_UPDATED -->2026-08-01 02:05 UTC<!-- END_LAST_UPDATED -->_
-
-</div>
 
 </div>
 
