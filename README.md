@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png" width="150" style="border-radius: 50%;" alt="Dabananda Mitra" />
@@ -77,7 +78,6 @@ I'm a Software Engineer with hands-on experience building and maintaining comple
 </div>
 
 ---
-
 ## 📁 Repository Statistics
 
 <div align="center">
@@ -85,10 +85,11 @@ I'm a Software Engineer with hands-on experience building and maintaining comple
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
-| Total Commits | 1144 |
+| Total Commits | 1152 |
 | Most Used Language | C# (10 repos) |
-| Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (544 commits) |
-| Last Push | 2026-07-24 |
+| Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
+| Last Push | 2026-08-02 |
+| Last Committed Project | [CodeVault](https://github.com/dabananda/CodeVault) |
 <!-- END_REPO_STATS -->
 
 </div>

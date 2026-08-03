@@ -166,6 +166,15 @@ def main():
         else "—"
     )
 
+    if repos:
+        last_committed_repo = repos[0]["name"]
+        last_committed_url = repos[0].get(
+            "html_url", f"https://github.com/{USERNAME}/{last_committed_repo}"
+        )
+        last_committed_display = f"[{last_committed_repo}]({last_committed_url})"
+    else:
+        last_committed_display = "—"
+
     if language_counts:
         top_language, top_language_count = max(language_counts.items(), key=lambda kv: kv[1])
         top_language_display = f"{top_language} ({top_language_count} repos)"
@@ -183,7 +192,8 @@ def main():
         f"| Total Commits | {total_commits} |\n"
         f"| Most Used Language | {top_language_display} |\n"
         f"| Most Active Repo | {most_active_display} |\n"
-        f"| Last Push | {last_push} |"
+        f"| Last Push | {last_push} |\n"
+        f"| Last Committed Project | {last_committed_display} |"
     )
 
     if not using_pat and private_count == 0:

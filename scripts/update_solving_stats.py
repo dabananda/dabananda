@@ -24,7 +24,6 @@ import os
 import urllib.request
 import json
 from pathlib import PurePosixPath
-from datetime import datetime, timezone
 
 README = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "README.md")
 
@@ -207,7 +206,6 @@ def main():
 
     platform_table, total_problems = build_platform_table(platform_counts)
     language_table, total_solutions = build_language_table(language_counts)
-    last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     with open(README, "r", encoding="utf-8") as f:
         readme = f.read()
@@ -223,9 +221,6 @@ def main():
         "<!-- START_TOTAL_PROBLEMS -->",
         "<!-- END_TOTAL_PROBLEMS -->",
         str(total_problems),
-    )
-    readme = replace_inline(
-        readme, "<!-- START_LAST_UPDATED -->", "<!-- END_LAST_UPDATED -->", last_updated
     )
 
     with open(README, "w", encoding="utf-8") as f:
