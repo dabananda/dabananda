@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with hands-on experience building and maintaining backend systems using **C#, ASP.NET, ASP.NET Core, SQL Server, Oracle, EF Core, Dapper, Redis and Docker**. I enjoy API development, Complex Banking and ERP application maintenance, debugging complex backend issues and designing scalable software architecture following **SOLID principles** and clean coding practices.
+I'm a Software Engineer with hands-on experience building and maintaining complex backend systems using **C#, ASP.NET, ASP.NET Core, SQL Server, Oracle, EF Core, Dapper, Redis and Docker**. I enjoy API development, Complex Banking and ERP application maintenance, debugging complex backend issues and designing scalable software architecture following **SOLID principles** and clean coding practices.
 
 - 🏢 Currently working as a **Software Engineer at LEADS Corporation Limited**, maintaining Core Banking Solutions.
 - 🎓 B.Sc. in Computer Science & Engineering (CSE) from Institute of Science Trade & Technology (ISTT), Dhaka.
