@@ -35,9 +35,8 @@ I'm a Software Engineer with hands-on experience building and maintaining comple
 
 | Role | Company | Duration |
 |---|---|---|
-| Jr. Software Engineer | LEADS Corporation Ltd | Jun 2026 – Present |
-| Software Engineer (Intern) | Bdjobs.com | Apr 2026 – Jun 2026 |
-| Software Engineer (Intern) | AKIJ iBOS | Mar 2026 – Apr 2026 |
+| Jr. Software Engineer| LEADS Corporation Ltd | Jun 2026 – Present |
+| Intern Software Engineer | Bdjobs.com | Apr 2026 – Jun 2026 |
 
 ---
 
