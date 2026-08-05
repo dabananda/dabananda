@@ -84,11 +84,11 @@ I'm a Software Engineer with hands-on experience building and maintaining comple
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
-| Total Commits | 1152 |
-| Most Used Language | C# (10 repos) |
+| Total Commits | 1154 |
+| Most Used Language | C# (11 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-08-02 |
-| Last Committed Project | [CodeVault](https://github.com/dabananda/CodeVault) |
+| Last Push | 2026-08-04 |
+| Last Committed Project | [PortfolioMS](https://github.com/dabananda/PortfolioMS) |
 <!-- END_REPO_STATS -->
 
 </div>
