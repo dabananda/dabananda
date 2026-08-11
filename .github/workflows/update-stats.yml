@@ -43,3 +43,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "docs: sync problem solving stats from CodeVault"
+          commit_user_name: "Dabananda Mitra"
+          commit_user_email: "dabananda.dev@gmail.com"
+          commit_author: "Dabananda Mitra <dabananda.dev@gmail.com>"
