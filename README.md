@@ -87,8 +87,8 @@ I'm a Software Engineer with hands-on experience building and maintaining comple
 | Total Commits | 1154 |
 | Most Used Language | C# (11 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-08-04 |
-| Last Committed Project | [PortfolioMS](https://github.com/dabananda/PortfolioMS) |
+| Last Push | 2026-08-11 |
+| Last Committed Project | [ApartmentManagementSystem](https://github.com/dabananda/ApartmentManagementSystem) |
 <!-- END_REPO_STATS -->
 
 </div>
