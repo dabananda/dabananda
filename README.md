@@ -173,10 +173,6 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
-<<<<<<< HEAD
-=======
-| Total Commits | 1204 |
->>>>>>> db7f190b77715aea6ae3d8265c84c6b2a1ad0f47
 | Most Used Language | C# (12 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
 | Last Push | 2026-08-14 |
