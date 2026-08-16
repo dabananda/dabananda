@@ -124,7 +124,7 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
   - CGPA: 3.21
   - **Duration:** Jan 2020 – Dec 2025
 
-- **Higher Secondary School Certificate (HSC)**
+- **Higher Secondary Certificate (HSC)**
   - **Institution:** [Agricultural University College](https://www.aucm.edu.bd/), Mymensingh, Bangladesh
   - GPA: 4.08, Group: Science
   - **Duration:** Jan 2016 – April 2018
