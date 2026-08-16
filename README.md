@@ -22,12 +22,12 @@
 
 Software Engineer with hands-on experience building, scaling, and maintaining backend systems using **C#, ASP.NET Core, SQL Server, EF Core and Dapper**. Experienced in **RESTful API development, Core Banking & ERP application maintenance, backend debugging and designing scalable software architectures** following **SOLID principles** and clean coding practices.
 
-- 🏢 **Current Role:** Junior Software Engineer at **[LEADS Corporation Limited](https://leads.com.bd/)**, maintaining and enhancing enterprise Core Banking Solutions.
-- 💼 **Prior Experience:** Software Engineer (Intern) at **[Bdjobs.com](https://bdjobs.com/)**, building ASP.NET Core APIs and migrating legacy systems.
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering (CSE) from **[Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/)**.
-- 🧩 **Problem Solving:** Solved **<!-- START_TOTAL_PROBLEMS -->846<!-- END_TOTAL_PROBLEMS -->+** algorithmic problems across LeetCode, Codeforces, HackerRank, UVa and CodeChef - tracked in [CodeVault](https://github.com/dabananda/CodeVault).
-- 🏛️ **Architecture Focus:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Modular Monolith, Repository & Service Patterns.
-- ✍️ **Community & Leadership:** Former President of **[HEAP Computer Club (ISTT)](https://www.facebook.com/heap.istt)**; active technical writer on [LinkedIn](https://linkedin.com/in/dabananda) and [My Personal Blog](https://dabananda.vercel.app/blog).
+- **Current Role:** Junior Software Engineer at **[LEADS Corporation Limited](https://leads.com.bd/)**, maintaining and enhancing enterprise Core Banking Solutions.
+- **Prior Experience:** Software Engineer (Intern) at **[Bdjobs.com](https://bdjobs.com/)**, building ASP.NET Core APIs and migrating legacy systems.
+- **Education:** B.Sc. in Computer Science & Engineering (CSE) from **[Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/)**.
+- **Problem Solving:** Solved **<!-- START_TOTAL_PROBLEMS -->846<!-- END_TOTAL_PROBLEMS -->+** algorithmic problems across LeetCode, Codeforces, HackerRank, UVa and CodeChef - tracked in [CodeVault](https://github.com/dabananda/CodeVault).
+- **Architecture Focus:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Modular Monolith, Repository & Service Patterns.
+- **Community & Leadership:** Former President of **[HEAP Computer Club (ISTT)](https://www.facebook.com/heap.istt)**; active technical writer on [LinkedIn](https://linkedin.com/in/dabananda) and [My Personal Blog](https://dabananda.vercel.app/blog).
 
 ---
 
@@ -181,7 +181,7 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
 
 </div>
 
-### [Problem Solving Distribution](https://github.com/dabananda/CodeVault)
+### Problem Solving Distribution
 
 <div align="center">
 
@@ -250,6 +250,6 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
 
 <br>
 
-💬 **Open to Backend Engineering, .NET Development and Full-Stack opportunities.** Feel free to reach out via [Email](mailto:dabananda.dev@gmail.com) or [LinkedIn](https://linkedin.com/in/dabananda).
+**Open to Backend Engineering, .NET Development and Full-Stack opportunities.** Feel free to reach out via [Email](mailto:dabananda.dev@gmail.com) or [LinkedIn](https://linkedin.com/in/dabananda).
 
 </div>
