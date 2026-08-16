@@ -52,15 +52,15 @@ LANGUAGE_EXTENSIONS = {
 GENERIC_FILE_STEMS = {"main", "solution", "sol", "program", "code", "index"}
 
 PLATFORM_DISPLAY_NAMES = {
-    "leetcode": "LeetCode",
-    "codeforces": "Codeforces",
-    "beecrowd": "BeeCrowd",
-    "hackerrank": "HackerRank",
-    "codechef": "CodeChef",
-    "geeksforgeeks": "GeeksforGeeks",
-    "coding-ninjas": "Coding Ninjas",
-    "uva": "UVA",
-    "vjudge": "VJudge",
+    "leetcode": "[LeetCode](https://leetcode.com/u/dabananda/)",
+    "codeforces": "[Codeforces](https://codeforces.com/profile/dabananda)",
+    "beecrowd": "[BeeCrowd](https://judge.beecrowd.com/en/profile/467832)",
+    "hackerrank": "[HackerRank](https://www.hackerrank.com/profile/dabananda)",
+    "codechef": "[CodeChef](https://www.codechef.com/users/dabananda)",
+    "geeksforgeeks": "[GeeksforGeeks](https://auth.geeksforgeeks.org/user/dabananda/practice)",
+    "coding-ninjas": "[Coding Ninjas](https://www.codingninjas.com/codestudio/profile/dabananda)",
+    "uva": "[UVA](https://uhunt.onlinejudge.org/id/1167157)",
+    "vjudge": "[VJudge](https://vjudge.net/user/dabanandamitra)",
 }
 
 

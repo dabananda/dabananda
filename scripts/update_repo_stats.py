@@ -189,7 +189,6 @@ def main():
     repo_stats = (
         "| Metric | Value |\n"
         "|---|---|\n"
-        f"| Total Commits | {total_commits} |\n"
         f"| Most Used Language | {top_language_display} |\n"
         f"| Most Active Repo | {most_active_display} |\n"
         f"| Last Push | {last_push} |\n"
