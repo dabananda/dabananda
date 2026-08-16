@@ -121,7 +121,7 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
 
 - **Bachelor of Science (B.Sc) in Computer Science & Engineering (CSE)**
   - **Institution:** [Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/), Mirpur 15, Dhaka, Bangladesh
-  - CGPA: 3.21
+  - CGPA: 3.20
   - **Duration:** Jan 2020 – Dec 2025
 
 - **Higher Secondary Certificate (HSC)**
