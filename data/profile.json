@@ -102,8 +102,16 @@
       "institution": "Institute of Science Trade & Technology (ISTT)",
       "institution_url": "https://istt.edu.bd/",
       "location": "Mirpur 15, Dhaka, Bangladesh",
-      "detail": "CGPA: 3.20",
+      "detail": "CGPA: 3.20/4",
       "period": "Jan 2020 – Dec 2025"
+    },
+    {
+      "degree": "Higher Secondary Certificate (HSC) in Science",
+      "institution": "Agricultural University College",
+      "institution_url": "https://www.aucm.edu.bd/",
+      "location": "Mymensingh, Bangladesh",
+      "detail": "GPA: 4.08/5",
+      "period": "July 2016 – April 2018"
     }
   ],
 
