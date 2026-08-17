@@ -22,6 +22,8 @@
 
 Software Engineer with hands-on experience building, scaling, and maintaining backend systems using **C#, ASP.NET Core, SQL Server, EF Core and Dapper**. Experienced in **RESTful API development, Core Banking & ERP application maintenance, backend debugging and designing scalable software architectures** following **SOLID principles** and clean coding practices.
 
+Beyond delivery, I care about writing code that the next engineer can read without asking me questions — clear boundaries, predictable data flow, and architecture that survives requirement changes.
+
 - **Current Role:** Junior Software Engineer at **[LEADS Corporation Limited](https://leads.com.bd/)**, maintaining and enhancing enterprise Core Banking Solutions.
 - **Prior Experience:** Software Engineer (Intern) at **[Bdjobs.com](https://bdjobs.com/)**, building ASP.NET Core APIs and migrating legacy systems.
 - **Education:** B.Sc. in Computer Science & Engineering (CSE) from **[Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/)**.
@@ -48,7 +50,7 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
     <td>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white" alt="REST API" />
       <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square" alt="ASP.NET MVC" />
       <img src="https://img.shields.io/badge/Web_Forms-512BD4?style=flat-square" alt="Web Forms" />
       <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square" alt="EF Core" />
@@ -109,11 +111,11 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
 
 ## Featured Projects
 
-| Project | Tech Stack | Highlights & Architecture | Repository |
+| Project | Tech Stack | Highlights & Architecture | Links |
 |---|---|---|:---:|
-| **Apartment Management** | `ASP.NET Core MVC`<br>`Identity`<br>`SQL Server`<br>`Cloudinary`<br>`Stripe` | • Multi-tenant property management platform with Role-Based Access Control (RBAC).<br>• Automated rent billing workflow using Stripe payments.<br>• Reduced manual processing through automation and optimized media delivery via Cloudinary CDN. | [GitHub](https://github.com/dabananda/ApartmentManagementSystem) |
-| **E-Commerce REST API** | `ASP.NET Core Web API`<br>`EF Core`<br>`JWT + Refresh Token`<br>`SQL Server`<br>`Stripe` | • Production-ready RESTful API with RBAC, secure JWT authentication, and refresh tokens.<br>• Integrated Stripe payment gateway for order transactions.<br>• Architected clean codebase using Repository & Service Pattern with FluentValidation for maintainability. | [GitHub](https://github.com/dabananda/ECommerce) |
-| **Portfolio CMS** | `ASP.NET Core Web API`<br>`Clean Architecture`<br>`Identity & JWT`<br>`Next.js`<br>`SQL Server` | • Multi-tenant CMS built with Clean Architecture, focusing on high scalability and separation of concerns.<br>• Implemented secured APIs with JWT, email verification, rate limiting, and blog/portfolio management. | [GitHub](https://github.com/dabananda/PortfolioCMS) |
+| **Apartment Management** | `ASP.NET Core MVC`<br>`Identity`<br>`SQL Server`<br>`Cloudinary`<br>`Stripe` | • Multi-tenant property management platform with Role-Based Access Control (RBAC).<br>• Automated rent billing workflow using Stripe payments.<br>• Reduced manual processing through automation and optimized media delivery via Cloudinary CDN. | [Code](https://github.com/dabananda/ApartmentManagementSystem) · [Live](https://apartment-management-demo.vercel.app) |
+| **E-Commerce REST API** | `ASP.NET Core Web API`<br>`EF Core`<br>`JWT + Refresh Token`<br>`SQL Server`<br>`Stripe` | • Production-ready RESTful API with RBAC, secure JWT authentication, and refresh tokens.<br>• Integrated Stripe payment gateway for order transactions.<br>• Architected clean codebase using Repository & Service Pattern with FluentValidation for maintainability. | [Code](https://github.com/dabananda/ECommerce) · [Live](https://ecommerce-api-demo.vercel.app) |
+| **Portfolio CMS** | `ASP.NET Core Web API`<br>`Clean Architecture`<br>`Identity & JWT`<br>`Next.js`<br>`SQL Server` | • Multi-tenant CMS built with Clean Architecture, focusing on high scalability and separation of concerns.<br>• Implemented secured APIs with JWT, email verification, rate limiting, and blog/portfolio management. | [Code](https://github.com/dabananda/PortfolioCMS) · [Live](https://portfolio-cms-demo.vercel.app) |
 
 ---
 
@@ -123,16 +125,6 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
   - **Institution:** [Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/), Mirpur 15, Dhaka, Bangladesh
   - CGPA: 3.20
   - **Duration:** Jan 2020 – Dec 2025
-
-- **Higher Secondary Certificate (HSC)**
-  - **Institution:** [Agricultural University College](https://www.aucm.edu.bd/), Mymensingh, Bangladesh
-  - GPA: 4.08, Group: Science
-  - **Duration:** Jan 2016 – April 2018
-
-- **Secondary School Certificate (SSC)**
-  - **Institution:** [Balizuri FM High School](https://www.facebook.com/balizurifmhs/), Madarganj, Jamalpur, Mymensingh, Bangladesh
-  - GPA: 5.00, Group: Science
-  - **Duration:** Jan 2011 – Feb 2016
 
 ---
 
