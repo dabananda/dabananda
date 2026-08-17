@@ -122,8 +122,13 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 - **Bachelor of Science (B.Sc) in Computer Science & Engineering (CSE)**
   - **Institution:** [Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/), Mirpur 15, Dhaka, Bangladesh
-  - CGPA: 3.20
+  - CGPA: 3.20/4
   - **Duration:** Jan 2020 – Dec 2025
+
+- **Higher Secondary Certificate (HSC) in Science**
+  - **Institution:** [Agricultural University College](https://www.aucm.edu.bd/), Mymensingh, Bangladesh
+  - GPA: 4.08/5
+  - **Duration:** July 2016 – April 2018
 
 ---
 
@@ -167,8 +172,8 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 |---|---|
 | Most Used Language | C# (13 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-08-16 |
-| Last Committed Project | [Evently](https://github.com/dabananda/Evently) |
+| Last Push | 2026-08-17 |
+| Last Committed Project | [PortfolioMS](https://github.com/dabananda/PortfolioMS) |
 <!-- END_REPO_STATS -->
 
 </div>
