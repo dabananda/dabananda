@@ -1,0 +1,127 @@
+{
+  "name": "Dabananda Mitra",
+  "title": "Software Engineer · Backend & Distributed Systems",
+  "avatar_url": "https://res.cloudinary.com/djz3p8sux/image/upload/v1759719780/portfolio-files/Dabananda_Mitra_Full_Stack_Software_Engineer_Csharp_ASP.NET_Core_MVC_Web_API_SQL_Server_Angular_React_TypeScript_imdmitra_gmail.com__8801304080014_Custom_1_szmo2k.png",
+  "tagline": "C# · ASP.NET Core · REST APIs · SQL Server · Oracle · EF Core · Dapper · Redis · Docker",
+
+  "links": {
+    "portfolio": "https://dabananda.vercel.app",
+    "resume_pdf": "https://dabananda.vercel.app/resume.pdf",
+    "linkedin": "https://linkedin.com/in/dabananda",
+    "email": "dabananda.dev@gmail.com",
+    "whatsapp": "https://wa.me/@dabananda",
+    "github": "https://github.com/dabananda",
+    "twitter": "https://x.com/dabanandamitra",
+    "facebook": "https://facebook.com/dabanandamitra",
+    "blog": "https://dabananda.vercel.app/blog",
+    "leetcode": "https://leetcode.com/u/dabananda/",
+    "codeforces": "https://codeforces.com/profile/dabananda",
+    "hackerrank": "https://www.hackerrank.com/profile/dabananda",
+    "codechef": "https://www.codechef.com/users/dabanandamitra",
+    "beecrowd": "https://judge.beecrowd.com/en/profile/467832",
+    "codevault_repo": "https://github.com/dabananda/CodeVault",
+    "heap_club": "https://www.facebook.com/heap.istt",
+    "leads_corp": "https://leads.com.bd/",
+    "bdjobs": "https://bdjobs.com/",
+    "istt": "https://istt.edu.bd/"
+  },
+
+  "summary": "Software Engineer with hands-on experience building, scaling, and maintaining backend systems using **C#, ASP.NET Core, SQL Server, EF Core and Dapper**. Experienced in **RESTful API development, Core Banking & ERP application maintenance, backend debugging and designing scalable software architectures** following **SOLID principles** and clean coding practices.",
+
+  "narrative": "Beyond delivery, I care about writing code that the next engineer can read without asking me questions — clear boundaries, predictable data flow, and architecture that survives requirement changes.",
+
+  "summary_highlights": [
+    "**Current Role:** Junior Software Engineer at **[LEADS Corporation Limited]({leads_corp})**, maintaining and enhancing enterprise Core Banking Solutions.",
+    "**Prior Experience:** Software Engineer (Intern) at **[Bdjobs.com]({bdjobs})**, building ASP.NET Core APIs and migrating legacy systems.",
+    "**Education:** B.Sc. in Computer Science & Engineering (CSE) from **[Institute of Science Trade & Technology (ISTT)]({istt})**.",
+    "**Architecture Focus:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Modular Monolith, Repository & Service Patterns.",
+    "**Community & Leadership:** Former President of **[HEAP Computer Club (ISTT)]({heap_club})**; active technical writer on [LinkedIn]({linkedin}) and [My Personal Blog]({blog})."
+  ],
+
+  "experience": [
+    {
+      "role": "Junior Software Engineer",
+      "org": "LEADS Corporation Limited",
+      "period": "Jun 2026 – Present",
+      "bullets": [
+        "Maintained and enhanced Core Banking Solution using **ASP.NET, Oracle Database, and PL/SQL Procedures**.",
+        "Fixed application bugs and implemented new features based on business and client requirements.",
+        "Participated in daily Scrum ceremonies, team collaboration, and code reviews to ensure code quality and timely delivery."
+      ]
+    },
+    {
+      "role": "Software Engineer (Intern)",
+      "org": "Bdjobs.com",
+      "period": "Apr 2026 – Jun 2026",
+      "bullets": [
+        "Developed and enhanced features using **ASP.NET Core APIs, SQL Server, Stored Procedures, and Dapper**.",
+        "Migrated legacy ASP components to ASP.NET Core by following existing architecture, ensuring clean and scalable code.",
+        "Participated in code reviews, bug fixing, and testing to improve application quality and ensure a reliable user experience."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Apartment Management",
+      "stack": ["ASP.NET Core MVC", "Identity", "SQL Server", "Cloudinary", "Stripe"],
+      "highlights": [
+        "Multi-tenant property management platform with Role-Based Access Control (RBAC).",
+        "Automated rent billing workflow using Stripe payments.",
+        "Reduced manual processing through automation and optimized media delivery via Cloudinary CDN."
+      ],
+      "repo_url": "https://github.com/dabananda/ApartmentManagementSystem",
+      "live_url": "https://apartment-management-demo.vercel.app"
+    },
+    {
+      "name": "E-Commerce REST API",
+      "stack": ["ASP.NET Core Web API", "EF Core", "JWT + Refresh Token", "SQL Server", "Stripe"],
+      "highlights": [
+        "Production-ready RESTful API with RBAC, secure JWT authentication, and refresh tokens.",
+        "Integrated Stripe payment gateway for order transactions.",
+        "Architected clean codebase using Repository & Service Pattern with FluentValidation for maintainability."
+      ],
+      "repo_url": "https://github.com/dabananda/ECommerce",
+      "live_url": "https://ecommerce-api-demo.vercel.app"
+    },
+    {
+      "name": "Portfolio CMS",
+      "stack": ["ASP.NET Core Web API", "Clean Architecture", "Identity & JWT", "Next.js", "SQL Server"],
+      "highlights": [
+        "Multi-tenant CMS built with Clean Architecture, focusing on high scalability and separation of concerns.",
+        "Implemented secured APIs with JWT, email verification, rate limiting, and blog/portfolio management."
+      ],
+      "repo_url": "https://github.com/dabananda/PortfolioCMS",
+      "live_url": "https://portfolio-cms-demo.vercel.app"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Science (B.Sc) in Computer Science & Engineering (CSE)",
+      "institution": "Institute of Science Trade & Technology (ISTT)",
+      "institution_url": "https://istt.edu.bd/",
+      "location": "Mirpur 15, Dhaka, Bangladesh",
+      "detail": "CGPA: 3.20",
+      "period": "Jan 2020 – Dec 2025"
+    }
+  ],
+
+  "certifications": [
+    { "name": "C# (Basic & Intermediate) — HackerRank", "url": "https://www.hackerrank.com/certificates/7a0a8c76bbef" },
+    { "name": "Python (Basic) — HackerRank", "url": "https://www.hackerrank.com/certificates/181c1978ecc8" },
+    { "name": "React Development — Udemy", "url": "https://www.udemy.com/certificate/UC-4d8d15bf-b84e-4f97-87f7-786f4b8193d4/" },
+    { "name": "Technical Support Fundamentals — Google", "url": "https://www.coursera.org/account/accomplishments/verify/X49MWFJMDZE2" }
+  ],
+
+  "leadership": [
+    {
+      "role": "President, HEAP Computer Club (ISTT)",
+      "role_url": "https://www.facebook.com/heap.istt",
+      "period": "Oct 2024 – Dec 2025",
+      "detail": "Led a 10+ member executive committee and organized 5+ technical seminars and workshops on modern software engineering reaching 100+ students."
+    }
+  ],
+
+  "open_to": "Backend Engineering, .NET Development and Full-Stack opportunities."
+}

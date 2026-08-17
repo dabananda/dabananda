@@ -14,6 +14,14 @@ on:
   repository_dispatch:
     types: [codevault-updated]
 
+  # Regenerate immediately whenever the editable content or layout changes,
+  # instead of waiting for the next scheduled run.
+  push:
+    branches: [main]
+    paths:
+      - "data/profile.json"
+      - "templates/README.template.md"
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -27,6 +35,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Generate README from data/profile.json
+        run: python scripts/generate_readme.py
 
       - name: Update README with latest CodeVault stats
         env:
@@ -42,7 +53,7 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: sync problem solving stats from CodeVault"
+          commit_message: "docs: regenerate README from profile data + sync stats"
           commit_user_name: "Dabananda Mitra"
           commit_user_email: "dabananda.dev@gmail.com"
           commit_author: "Dabananda Mitra <dabananda.dev@gmail.com>"
