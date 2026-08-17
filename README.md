@@ -173,10 +173,10 @@ Software Engineer with hands-on experience building, scaling, and maintaining ba
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
-| Most Used Language | C# (12 repos) |
+| Most Used Language | C# (13 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-08-14 |
-| Last Committed Project | [ModularApiStarter](https://github.com/dabananda/ModularApiStarter) |
+| Last Push | 2026-08-16 |
+| Last Committed Project | [Evently](https://github.com/dabananda/Evently) |
 <!-- END_REPO_STATS -->
 
 </div>
