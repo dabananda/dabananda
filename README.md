@@ -146,7 +146,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 ---
 
-### Repository Overview
+## Problem Solving Activity
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 </div>
 
-### Problem Solving Distribution
+### Problem Solving Count
 
 <div align="center">
 
@@ -211,7 +211,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 ---
 
-## GitHub & Problem Solving Activity
+## GitHub Activity
 
 <div align="center">
 
