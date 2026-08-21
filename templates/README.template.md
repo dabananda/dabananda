@@ -182,7 +182,9 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight&hide_border=true" alt="Dabananda's GitHub Streak" width="33%" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabananda&theme=tokyonight" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dabananda&theme=tokyonight" width="33%" />
+
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabananda&theme=tokyonight" width="33%" /> -->
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dabananda&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
