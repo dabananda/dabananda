@@ -146,24 +146,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 ---
 
-## GitHub & Problem Solving Activity
-
-<div align="center">
-
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dabananda's GitHub Stats" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight&hide_border=true" alt="Dabananda's GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dabananda&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=dabananda&style=flat-square&color=2563eb&label=Profile+Views)
-
-</div>
-
-### Repository Overview
+## Repository Overview
 
 <div align="center">
 
@@ -178,7 +161,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 </div>
 
-### Problem Solving Distribution
+## Problem Solving Count
 
 <div align="center">
 
@@ -223,6 +206,26 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=dabananda&style=flat-square&color=2563eb&label=Profile+Views)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dabananda&theme=tokyonight" width="33%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dabananda&theme=tokyonight&hide_border=true" alt="Dabananda's GitHub Streak" width="33%" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabananda&theme=tokyonight" width="33%" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dabananda&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
