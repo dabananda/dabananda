@@ -153,10 +153,10 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 <!-- START_REPO_STATS -->
 | Metric | Value |
 |---|---|
-| Most Used Language | C# (13 repos) |
+| Most Used Language | C# (12 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-08-21 |
-| Last Committed Project | [e-commerce](https://github.com/dabananda/e-commerce) |
+| Last Push | 2026-08-17 |
+| Last Committed Project | [PortfolioMS](https://github.com/dabananda/PortfolioMS) |
 <!-- END_REPO_STATS -->
 
 </div>
