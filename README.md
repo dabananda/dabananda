@@ -155,8 +155,8 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 |---|---|
 | Most Used Language | C# (12 repos) |
 | Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-08-17 |
-| Last Committed Project | [PortfolioMS](https://github.com/dabananda/PortfolioMS) |
+| Last Push | 2026-09-09 |
+| Last Committed Project | [ModularMonolith](https://github.com/dabananda/ModularMonolith) |
 <!-- END_REPO_STATS -->
 
 </div>
