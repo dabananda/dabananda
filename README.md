@@ -22,8 +22,6 @@
 
 Software Engineer with hands-on experience building, scaling, and maintaining backend systems using **C#, ASP.NET Core, SQL Server, EF Core and Dapper**. Experienced in **RESTful API development, Core Banking & ERP application maintenance, backend debugging and designing scalable software architectures** following **SOLID principles** and clean coding practices.
 
-Beyond delivery, I care about writing code that the next engineer can read without asking me questions — clear boundaries, predictable data flow, and architecture that survives requirement changes.
-
 - **Current Role:** Junior Software Engineer at **[LEADS Corporation Limited](https://leads.com.bd/)**, maintaining and enhancing enterprise Core Banking Solutions.
 - **Prior Experience:** Software Engineer (Intern) at **[Bdjobs.com](https://bdjobs.com/)**, building ASP.NET Core APIs and migrating legacy systems.
 - **Education:** B.Sc. in Computer Science & Engineering (CSE) from **[Institute of Science Trade & Technology (ISTT)](https://istt.edu.bd/)**.
@@ -134,7 +132,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 
 ## Achievements & Certifications
 
-- **[Problem Solving](https://github.com/dabananda/CodeVault):** Solved **<!-- START_TOTAL_PROBLEMS -->846<!-- END_TOTAL_PROBLEMS -->+** algorithmic problems on [LeetCode](https://leetcode.com/u/dabananda/), [Codeforces](https://codeforces.com/profile/dabananda), [HackerRank](https://www.hackerrank.com/profile/dabananda), [UVa](https://uhunt.onlinejudge.org/id/1167157), [CodeChef](https://www.codechef.com/users/dabanandamitra) and other platforms.
+- **[Problem Solving](https://github.com/dabananda/CodeVault):** Solved **900+** algorithmic problems on [LeetCode](https://leetcode.com/u/dabananda/), [Codeforces](https://codeforces.com/profile/dabananda), [HackerRank](https://www.hackerrank.com/profile/dabananda), [UVa](https://uhunt.onlinejudge.org/id/1167157), [CodeChef](https://www.codechef.com/users/dabanandamitra) and other platforms.
 - **Certifications:**
   - [**C# (Basic & Intermediate)** — HackerRank](https://www.hackerrank.com/certificates/7a0a8c76bbef)
   - [**Python (Basic)** — HackerRank](https://www.hackerrank.com/certificates/181c1978ecc8)
@@ -143,71 +141,6 @@ Beyond delivery, I care about writing code that the next engineer can read witho
 - **Leadership & Mentorship:**
   - **[President, HEAP Computer Club (ISTT)](https://www.facebook.com/heap.istt)** (Oct 2024 – Dec 2025): Led a 10+ member executive committee and organized 5+ technical seminars and workshops on modern software engineering reaching 100+ students.
 - **Technical Writing:** Actively sharing in-depth insights on software architecture, backend engineering and problem-solving on [LinkedIn](https://linkedin.com/in/dabananda) and [My Personal Blog](https://dabananda.vercel.app/blog).
-
----
-
-## Repository Overview
-
-<div align="center">
-
-<!-- START_REPO_STATS -->
-| Metric | Value |
-|---|---|
-| Most Used Language | C# (12 repos) |
-| Most Active Repo | [CodeVault](https://github.com/dabananda/CodeVault) (547 commits) |
-| Last Push | 2026-09-12 |
-| Last Committed Project | [ModularMonolith](https://github.com/dabananda/ModularMonolith) |
-<!-- END_REPO_STATS -->
-
-</div>
-
-## Problem Solving Count
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top">
-
-<!-- START_LANGUAGE_STATS -->
-| Language | Solutions |
-|----------|----------:|
-| C++ | 668 |
-| C | 113 |
-| Java | 50 |
-| Python | 44 |
-| JavaScript | 19 |
-| C# | 11 |
-| SQL | 8 |
-| **Total** | **913** |
-<!-- END_LANGUAGE_STATS -->
-
-</td>
-
-<td width="40"></td>
-
-<td valign="top">
-
-<!-- START_PLATFORM_STATS -->
-| Platform | Problems |
-|----------|---------:|
-| [Codeforces](https://codeforces.com/profile/dabananda) | 296 |
-| [HackerRank](https://www.hackerrank.com/profile/dabananda) | 190 |
-| [LeetCode](https://leetcode.com/u/dabananda/) | 166 |
-| [BeeCrowd](https://judge.beecrowd.com/en/profile/467832) | 57 |
-| [Coding Ninjas](https://www.codingninjas.com/codestudio/profile/dabananda) | 51 |
-| [UVA](https://uhunt.onlinejudge.org/id/1167157) | 46 |
-| [CodeChef](https://www.codechef.com/users/dabananda) | 16 |
-| [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dabananda/practice) | 12 |
-| [VJudge](https://vjudge.net/user/dabanandamitra) | 12 |
-| **Total** | **846** |
-<!-- END_PLATFORM_STATS -->
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -227,7 +160,7 @@ Beyond delivery, I care about writing code that the next engineer can read witho
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dabananda&theme=tokyonight" width="33%" /> -->
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dabananda&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dabananda&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" /> -->
 
 </div>
 
